@@ -1,0 +1,2019 @@
+ICU_ID_from_datasource,site
+157,LRTI : CAP
+160,Cardiovascular : catheter-related LRTI : HAP
+165,LRTI : CAP
+181,Intra-abdominal : primary peritonitis
+185,LRTI : HAP
+199,LRTI : HAP
+201,LRTI : HAP
+205,Cardiovascular : primary Urinary tract : UTI (catheterized)
+218,Intra-abdominal : primary peritonitis LRTI : CAP
+219,Urinary tract : UTI (non-catheterized)
+220,LRTI : HAP
+221,Cardiovascular : mediastinitis
+228,LRTI : CAP
+262,LRTI : CAP
+273,LRTI : CAP
+278,Urinary tract : UTI (non-catheterized)
+283,LRTI : CAP
+286,LRTI : HAP
+288,LRTI : CAP
+293,LRTI : HAP
+296,LRTI : HAP
+301,LRTI : CAP
+312,Skin or soft tissue : necrotizing fasciitis
+314,LRTI : HAP
+315,LRTI : CAP
+324,LRTI : HAP
+325,Intra-abdominal : secondary peritonitis
+338,LRTI : CAP URTI : pharyngitis
+349,Intra-abdominal : pancreatic
+359,Urinary tract : UTI (catheterized) Gastrointestinal  : other infection LRTI : CAP
+360,LRTI : CAP
+378,Cardiovascular : endocarditis
+385,Urinary tract : UTI (non-catheterized)
+398,Intra-abdominal : intra-abdominal absces
+399,LRTI : CAP
+408,LRTI : CAP
+423,Cardiovascular : endocarditis
+426,Other (please specify)
+428,Urinary tract : UTI (non-catheterized)
+440,LRTI : CAP
+441,LRTI : CAP
+442,LRTI : CAP
+448,Intra-abdominal : secondary peritonitis
+449,Intra-abdominal : secondary peritonitis
+461,LRTI : CAP
+468,Unknown
+472,LRTI : HAP
+474,LRTI : HAP
+477,CNS : spinal abscess LRTI : CAP
+508,Cardiovascular : primary Infections of bones and joints : arthritis
+511,CNS : spinal abscess
+512,Infections of bones and joints : osteomyelitis LRTI : HAP
+513,LRTI : HAP
+521,LRTI : HAP
+524,Urinary tract : UTI (catheterized)
+533,LRTI : CAP
+542,URTI : pharyngitis
+544,LRTI : CAP
+545,LRTI : CAP
+551,LRTI : CAP
+554,LRTI : HAP Urinary tract : UTI (catheterized)
+561,NA
+570,Cardiovascular : primary
+575,LRTI : CAP
+578,Cardiovascular : primary
+583,Other (please specify)
+602,LRTI : CAP
+603,CNS : brain abscess LRTI : HAP Viral systemic infections (please specify)
+610,Intra-abdominal : secondary peritonitis
+638,Intra-abdominal : secondary peritonitis LRTI : HAP
+643,LRTI : CAP
+650,Skin or soft tissue : necrotizing fasciitis
+651,Intra-abdominal : secondary peritonitis Cardiovascular : catheter-related
+663,Intra-abdominal : primary peritonitis
+689,Intra-abdominal : biliary tract
+695,Intra-abdominal : secondary peritonitis
+696,CNS : brain abscess
+707,LRTI : CAP
+713,Cardiovascular : mediastinitis
+714,Intra-abdominal : secondary peritonitis
+715,Intra-abdominal : biliary tract
+720,Cardiovascular : endocarditis
+729,LRTI : CAP
+732,LRTI : CAP
+734,Intra-abdominal : biliary tract
+761,LRTI : CAP
+774,Intra-abdominal : secondary peritonitis Urinary tract : UTI (non-catheterized)
+793,LRTI : CAP
+797,Intra-abdominal : secondary peritonitis LRTI : CAP
+803,LRTI : HAP
+815,LRTI : CAP
+832,Skin or soft tissue : infected decubitus LRTI : CAP
+834,Skin or soft tissue : necrotizing fasciitis
+837,LRTI : CAP
+839,Other (please specify)
+840,LRTI : CAP
+855,LRTI : CAP
+867,Urinary tract : UTI (catheterized)
+873,LRTI : CAP
+878,LRTI : HAP
+879,Intra-abdominal : intra-abdominal absces
+882,LRTI : CAP
+890,Intra-abdominal : secondary peritonitis
+893,Cardiovascular : mediastinitis
+897,LRTI : CAP
+913,LRTI : HAP Infections of bones and joints : osteomyelitis
+922,LRTI : HAP Intra-abdominal : pancreatic
+935,Intra-abdominal : biliary tract
+941,Unknown
+948,LRTI : CAP
+949,LRTI : HAP
+950,Intra-abdominal : secondary peritonitis
+953,Cardiovascular : catheter-related Skin or soft tissue : necrotizing fasciitis
+955,LRTI : HAP Intra-abdominal : biliary tract
+959,Oral : infection of mouth
+966,Intra-abdominal : biliary tract
+968,Cardiovascular : myocarditis LRTI : CAP
+999,Intra-abdominal : secondary peritonitis
+1004,Intra-abdominal : secondary peritonitis
+1005,LRTI : CAP
+1012,Intra-abdominal : intra-abdominal absces
+1015,LRTI : CAP
+1030,"CNS : primary meningitis LRTI : lung abscess, empyema LRTI : HAP"
+1035,LRTI : CAP
+1036,Skin or soft tissue : infected decubitus Urinary tract : UTI (catheterized)
+1038,Infections of bones and joints : arthritis Cardiovascular : primary
+1043,LRTI : HAP
+1044,LRTI : CAP
+1049,LRTI : CAP
+1052,LRTI : CAP
+1056,Gastrointestinal  : other infection
+1057,Intra-abdominal : secondary peritonitis
+1068,LRTI : CAP
+1070,Cardiovascular : mediastinitis
+1073,Urinary tract : UTI (non-catheterized) Cardiovascular : primary
+1108,LRTI : CAP
+1111,LRTI : CAP
+1112,Cardiovascular : endocarditis LRTI : CAP
+1114,Urinary tract : UTI (non-catheterized)
+1117,LRTI : CAP
+1118,LRTI : HAP
+1119,Intra-abdominal : secondary peritonitis
+1137,Intra-abdominal : secondary peritonitis Urinary tract : UTI (catheterized)
+1151,Cardiovascular : mediastinitis
+1153,Cardiovascular : primary
+1157,"LRTI : CAP LRTI : lung abscess, empyema"
+1165,LRTI : HAP
+1177,Skin or soft tissue : erisypelas
+1192,LRTI : HAP
+1193,LRTI : CAP
+1197,LRTI : HAP
+1204,Intra-abdominal : secondary peritonitis
+1225,Skin or soft tissue : infected decubitus LRTI : CAP
+1227,LRTI : CAP
+1245,LRTI : CAP
+1251,Skin or soft tissue : necrotizing fasciitis
+1257,LRTI : CAP
+1266,Urinary tract : UTI (catheterized)
+1268,LRTI : CAP
+1269,Intra-abdominal : biliary tract
+1272,LRTI : CAP
+1281,LRTI : CAP
+1286,Intra-abdominal : biliary tract LRTI : HAP
+1317,Intra-abdominal : intra-abdominal absces
+1318,Skin or soft tissue : necrotizing fasciitis
+1319,LRTI : CAP Urinary tract : UTI (catheterized)
+1322,LRTI : HAP
+1324,Urinary tract : UTI (catheterized) LRTI : HAP
+1334,LRTI : CAP
+1346,Urinary tract : UTI (catheterized)
+1350,Viral systemic infections (please specify)
+1369,Other (please specify)
+1371,LRTI : HAP
+1383,Intra-abdominal : secondary peritonitis
+1387,Intra-abdominal : intra-abdominal absces LRTI : HAP
+1388,Intra-abdominal : secondary peritonitis
+1394,Other (please specify)
+1397,Other (please specify)
+1405,Urinary tract : UTI (catheterized)
+1410,URTI : pharyngitis
+1411,Cardiovascular : catheter-related Unknown
+1413,LRTI : HAP
+1417,LRTI : CAP
+1422,LRTI : HAP Intra-abdominal : secondary peritonitis
+1426,"LRTI : CAP LRTI : lung abscess, empyema"
+1427,LRTI : CAP
+1452,Intra-abdominal : secondary peritonitis LRTI : HAP
+1456,Intra-abdominal : biliary tract
+1457,LRTI : CAP
+1461,LRTI : HAP Gastrointestinal  : other infection
+1467,LRTI : CAP
+1474,LRTI : CAP
+1479,URTI : pharyngitis
+1486,Intra-abdominal : secondary peritonitis
+1488,LRTI : CAP
+1498,LRTI : CAP
+1499,Intra-abdominal : biliary tract
+1503,LRTI : CAP
+1507,LRTI : HAP Cardiovascular : primary Viral systemic infections (please specify)
+1518,Intra-abdominal : secondary peritonitis
+1521,LRTI : CAP
+1532,Cardiovascular : endocarditis
+1535,Gastrointestinal  : necrotizing enterocolitis Cardiovascular : primary
+1536,Intra-abdominal : pancreatic
+1550,LRTI : HAP
+1551,LRTI : HAP Intra-abdominal : primary peritonitis
+1552,LRTI : CAP
+1566,LRTI : HAP LRTI : CAP Cardiovascular : catheter-related
+1579,Intra-abdominal : pancreatic Intra-abdominal : biliary tract
+1581,LRTI : HAP
+1583,Cardiovascular : endocarditis
+1586,Intra-abdominal : secondary peritonitis Intra-abdominal : intra-abdominal absces
+1590,LRTI : CAP Cardiovascular : endocarditis
+1601,LRTI : CAP
+1610,LRTI : HAP
+1611,Intra-abdominal : biliary tract
+1617,Intra-abdominal : secondary peritonitis Urinary tract : UTI (catheterized)
+1625,Cardiovascular : endocarditis Intra-abdominal : secondary peritonitis LRTI : HAP
+1628,LRTI : CAP
+1629,Urinary tract : UTI (non-catheterized)
+1639,LRTI : CAP
+1646,Intra-abdominal : secondary peritonitis
+1660,LRTI : CAP
+1661,LRTI : HAP
+1662,LRTI : CAP
+1668,Urinary tract : other infection of kidney
+1669,Urinary tract : UTI (catheterized) LRTI : HAP
+1670,Intra-abdominal : secondary peritonitis
+1683,LRTI : HAP CNS : brain abscess
+1695,LRTI : CAP
+1707,LRTI : CAP
+1715,LRTI : CAP
+1717,LRTI : HAP
+1726,Urinary tract : UTI (non-catheterized)
+1735,Intra-abdominal : secondary peritonitis
+1738,LRTI : CAP
+1743,Cardiovascular : mediastinitis
+1758,LRTI : HAP
+1767,LRTI : HAP
+1768,LRTI : HAP Intra-abdominal : secondary peritonitis
+1770,~Unknown
+1772,LRTI : HAP
+1780,LRTI : CAP
+1785,LRTI : HAP
+1793,Skin or soft tissue : infected decubitus LRTI : CAP
+1811,LRTI : CAP
+1812,Urinary tract : UTI (catheterized)
+1818,Intra-abdominal : secondary peritonitis
+1822,Urinary tract : UTI (catheterized)
+1824,LRTI : HAP
+1848,Urinary tract : UTI (non-catheterized) Unknown
+1858,Intra-abdominal : biliary tract
+1862,CNS : primary meningitis
+1866,Cardiovascular : catheter-related
+1868,Other (please specify)
+1886,Intra-abdominal : biliary tract
+1891,LRTI : CAP
+1892,Cardiovascular : mediastinitis
+1898,LRTI : HAP
+1900,Urinary tract : UTI (non-catheterized) Cardiovascular : primary
+1906,Intra-abdominal : intra-abdominal absces Intra-abdominal : secondary peritonitis
+1908,"LRTI : lung abscess, empyema"
+1910,LRTI : CAP
+1912,LRTI : HAP
+1913,LRTI : HAP URTI : sinusitis
+1929,LRTI : CAP
+1932,LRTI : CAP
+1942,Postoperative wound : deep surgical site Intra-abdominal : secondary peritonitis
+1945,LRTI : HAP
+1949,Urinary tract : other infection of kidney
+1951,Gastrointestinal  : gastroenteritis
+1956,LRTI : CAP
+1968,LRTI : HAP
+1973,LRTI : CAP
+1988,LRTI : CAP
+1991,Intra-abdominal : secondary peritonitis
+1992,Cardiovascular : primary
+1994,LRTI : HAP
+1995,Urinary tract : UTI (non-catheterized) LRTI : CAP
+2000,LRTI : CAP
+2007,URTI : pharyngitis
+2014,LRTI : CAP
+2024,Urinary tract : UTI (non-catheterized)
+2028,LRTI : CAP
+2029,"LRTI : HAP LRTI : lung abscess, empyema"
+2037,LRTI : HAP
+2042,Skin or soft tissue : necrotizing fasciitis Cardiovascular : endocarditis
+2045,Intra-abdominal : secondary peritonitis
+2046,LRTI : CAP
+2049,Skin or soft tissue : necrotizing fasciitis LRTI : CAP
+2052,LRTI : CAP
+2066,LRTI : CAP
+2073,LRTI : HAP
+2085,CNS : primary meningitis
+2089,LRTI : HAP
+2095,LRTI : CAP
+2113,CNS : primary meningitis LRTI : CAP
+2116,LRTI : HAP
+2118,Intra-abdominal : secondary peritonitis
+2120,Skin or soft tissue : necrotizing fasciitis
+2123,LRTI : CAP
+2129,Cardiovascular : endocarditis LRTI : HAP Cardiovascular : primary
+2131,Intra-abdominal : secondary peritonitis
+2134,Infections of bones and joints : arthritis
+2137,LRTI : CAP
+2146,LRTI : CAP
+2159,Postoperative wound : deep surgical site
+2169,Skin or soft tissue : erisypelas
+2188,Oral : infection of mouth Cardiovascular : mediastinitis
+2190,LRTI : CAP
+2193,Intra-abdominal : intra-abdominal absces
+2196,Intra-abdominal : secondary peritonitis
+2201,Intra-abdominal : primary peritonitis Urinary tract : UTI (catheterized)
+2211,LRTI : CAP
+2213,LRTI : CAP
+2217,Urinary tract : UTI (catheterized)
+2220,LRTI : CAP
+2221,Intra-abdominal : biliary tract
+2229,Intra-abdominal : secondary peritonitis
+2230,Oral : infection of mouth
+2239,LRTI : CAP
+2246,LRTI : CAP
+2256,LRTI : HAP
+2259,Skin or soft tissue : necrotizing fasciitis
+2262,LRTI : HAP
+2263,Intra-abdominal : pancreatic
+2268,LRTI : CAP
+2270,Gastrointestinal  : gastroenteritis LRTI : CAP
+2274,LRTI : CAP
+2278,Cardiovascular : primary
+2279,Intra-abdominal : biliary tract LRTI : HAP
+2286,CNS : primary meningitis
+2287,Urinary tract : UTI (non-catheterized)
+2291,Urinary tract : UTI (catheterized)
+2297,Oral : infection of mouth
+2300,LRTI : HAP
+2302,Urinary tract : UTI (catheterized)
+2304,Intra-abdominal : pancreatic
+2306,Intra-abdominal : pancreatic
+2310,LRTI : HAP Cardiovascular : primary
+2311,LRTI : CAP Skin or soft tissue : necrotizing fasciitis
+2313,LRTI : HAP Intra-abdominal : secondary peritonitis
+2321,CNS : primary meningitis
+2328,LRTI : CAP Cardiovascular : myocarditis
+2329,"Infections of bones and joints : osteomyelitis Eye : intra-ocular infection, conjunctivitis LRTI : CAP Skin or soft tissue : necrotizing fasciitis"
+2335,Gastrointestinal  : gastroenteritis
+2340,LRTI : CAP
+2343,LRTI : CAP
+2345,LRTI : HAP Intra-abdominal : secondary peritonitis
+2361,Skin or soft tissue : erisypelas LRTI : HAP Intra-abdominal : pancreatic
+2363,Urinary tract : UTI (non-catheterized) Cardiovascular : catheter-related Skin or soft tissue : necrotizing fasciitis LRTI : HAP
+2367,Intra-abdominal : secondary peritonitis
+2382,LRTI : CAP
+2383,Urinary tract : UTI (non-catheterized)
+2384,LRTI : CAP
+2393,LRTI : CAP
+2395,Urinary tract : UTI (catheterized)
+2397,LRTI : CAP
+2404,LRTI : CAP
+2406,LRTI : CAP
+2407,LRTI : HAP
+2409,LRTI : CAP
+2415,URTI : pharyngitis LRTI : CAP
+2436,Intra-abdominal : secondary peritonitis
+2442,LRTI : HAP Intra-abdominal : primary peritonitis
+2444,Urinary tract : UTI (non-catheterized) Intra-abdominal : secondary peritonitis
+2446,CNS : brain abscess
+2452,LRTI : HAP
+2455,Cardiovascular : endocarditis
+2461,NA
+2468,LRTI : CAP
+2475,LRTI : CAP
+2480,LRTI : CAP
+2486,Intra-abdominal : secondary peritonitis
+2497,Cardiovascular : endocarditis
+2507,CNS : primary meningitis
+2514,Intra-abdominal : secondary peritonitis
+2516,LRTI : CAP
+2522,LRTI : CAP Viral systemic infections (please specify)
+2526,Intra-abdominal : secondary peritonitis LRTI : HAP
+2530,LRTI : CAP
+2532,Intra-abdominal : secondary peritonitis LRTI : HAP
+2534,Other (please specify)
+2536,LRTI : CAP Urinary tract : UTI (non-catheterized) CNS : primary meningitis
+2539,LRTI : CAP
+2545,LRTI : CAP
+2546,Intra-abdominal : secondary peritonitis
+2550,LRTI : HAP
+2558,Postoperative wound : superficial surgicical LRTI : CAP
+2569,Skin or soft tissue : erisypelas
+2576,LRTI : CAP
+2577,Infections of bones and joints : osteomyelitis Skin or soft tissue : erisypelas
+2578,Other (please specify) Gastrointestinal  : gastroenteritis
+2585,LRTI : CAP
+2588,LRTI : CAP
+2589,LRTI : CAP
+2611,Intra-abdominal : secondary peritonitis
+2622,Intra-abdominal : secondary peritonitis
+2638,Cardiovascular : myocarditis
+2639,Skin or soft tissue : infected decubitus
+2640,LRTI : CAP
+2643,LRTI : CAP
+2644,LRTI : CAP
+2651,Urinary tract : UTI (catheterized) LRTI : CAP
+2652,Intra-abdominal : secondary peritonitis
+2654,Skin or soft tissue : infected decubitus LRTI : CAP
+2657,Cardiovascular : primary
+2659,LRTI : CAP
+2661,Gastrointestinal  : gastroenteritis
+2669,Intra-abdominal : secondary peritonitis Urinary tract : UTI (non-catheterized)
+2671,LRTI : HAP Cardiovascular : catheter-related CNS : primary meningitis
+2678,Skin or soft tissue : necrotizing fasciitis
+2690,LRTI : HAP CNS : brain abscess
+2691,LRTI : CAP
+2701,Skin or soft tissue : necrotizing fasciitis
+2704,LRTI : CAP
+2705,Cardiovascular : primary
+2713,Other (please specify)
+2718,LRTI : CAP
+2719,LRTI : CAP CNS : primary meningitis Cardiovascular : endocarditis
+2720,LRTI : HAP
+2723,CNS : primary meningitis LRTI : HAP
+2725,CNS : secondary meningitis
+2730,CNS : primary meningitis
+2731,LRTI : CAP Urinary tract : UTI (non-catheterized)
+2732,LRTI : HAP
+2733,LRTI : HAP
+2736,LRTI : CAP
+2739,LRTI : CAP
+2742,LRTI : CAP
+2747,LRTI : HAP
+2750,Intra-abdominal : biliary tract
+2761,LRTI : HAP
+2769,LRTI : CAP
+2780,LRTI : CAP
+2783,Intra-abdominal : biliary tract
+2784,Urinary tract : UTI (non-catheterized)
+2785,Skin or soft tissue : erisypelas
+2787,LRTI : CAP
+2789,Cardiovascular : endocarditis
+2800,Gastrointestinal  : other infection
+2804,LRTI : HAP
+2805,Cardiovascular : mediastinitis Oral : infection of mouth
+2813,Intra-abdominal : secondary peritonitis Gastrointestinal  : other infection
+2814,LRTI : HAP
+2815,CNS : primary meningitis
+2820,Intra-abdominal : secondary peritonitis
+2832,CNS : secondary meningitis LRTI : HAP
+2833,LRTI : CAP
+2837,CNS : secondary meningitis
+2841,Urinary tract : UTI (non-catheterized) Cardiovascular : primary
+2852,LRTI : CAP
+2853,LRTI : CAP
+2854,LRTI : HAP
+2861,Gastrointestinal  : gastroenteritis
+2876,LRTI : CAP
+2878,LRTI : CAP
+2883,Cardiovascular : catheter-related
+2893,LRTI : HAP
+2897,Intra-abdominal : secondary peritonitis
+2899,LRTI : CAP
+2905,Urinary tract : UTI (catheterized)
+2909,Gastrointestinal  : gastroenteritis
+2910,LRTI : HAP
+2919,LRTI : HAP
+2921,Intra-abdominal : secondary peritonitis
+2924,LRTI : CAP
+2926,Intra-abdominal : secondary peritonitis
+2935,Skin or soft tissue : infected decubitus
+2937,Cardiovascular : endocarditis
+2942,Other (please specify)
+2947,Urinary tract : UTI (catheterized)
+2948,CNS : brain abscess
+2950,LRTI : CAP Urinary tract : UTI (catheterized)
+2955,LRTI : CAP
+2958,Skin or soft tissue : necrotizing fasciitis
+2961,LRTI : CAP
+2962,Cardiovascular : endocarditis
+2966,LRTI : CAP
+2969,LRTI : CAP Intra-abdominal : biliary tract
+2972,Intra-abdominal : secondary peritonitis
+2974,LRTI : HAP Intra-abdominal : secondary peritonitis
+2977,LRTI : HAP Urinary tract : UTI (catheterized)
+2992,LRTI : CAP
+2994,Urinary tract : UTI (catheterized) LRTI : CAP
+2995,Intra-abdominal : secondary peritonitis
+2999,Intra-abdominal : biliary tract
+3003,LRTI : CAP Urinary tract : UTI (catheterized)
+3005,LRTI : CAP
+3006,LRTI : CAP
+3015,Intra-abdominal : biliary tract
+3021,LRTI : CAP
+3023,LRTI : HAP Intra-abdominal : intra-abdominal absces
+3031,LRTI : CAP
+3032,Intra-abdominal : primary peritonitis LRTI : HAP
+3033,LRTI : CAP
+3035,LRTI : CAP
+3040,LRTI : HAP
+3041,Intra-abdominal : secondary peritonitis
+3048,LRTI : CAP
+3049,Intra-abdominal : secondary peritonitis
+3054,Intra-abdominal : secondary peritonitis
+3064,LRTI : CAP
+3073,Intra-abdominal : secondary peritonitis
+3076,LRTI : HAP
+3084,LRTI : CAP
+3095,LRTI : CAP
+3096,LRTI : HAP Cardiovascular : endocarditis
+3099,Cardiovascular : catheter-related Gastrointestinal  : necrotizing enterocolitis
+3103,Intra-abdominal : secondary peritonitis
+3104,LRTI : CAP
+3106,LRTI : CAP
+3111,Intra-abdominal : secondary peritonitis Urinary tract : UTI (catheterized)
+3112,LRTI : CAP
+3129,CNS : primary meningitis
+3134,Intra-abdominal : primary peritonitis
+3136,LRTI : CAP
+3137,Intra-abdominal : secondary peritonitis
+3140,LRTI : CAP Skin or soft tissue : erisypelas
+3142,LRTI : HAP Urinary tract : UTI (catheterized) LRTI : CAP
+3147,Urinary tract : UTI (non-catheterized) LRTI : CAP
+3149,Cardiovascular : endocarditis Urinary tract : UTI (non-catheterized)
+3158,LRTI : CAP
+3161,CNS : secondary meningitis
+3165,LRTI : CAP
+3170,CNS : brain abscess LRTI : HAP
+3171,LRTI : CAP
+3172,LRTI : HAP Urinary tract : UTI (non-catheterized)
+3184,LRTI : HAP
+3191,Skin or soft tissue : erisypelas Gastrointestinal  : other infection LRTI : HAP
+3193,Intra-abdominal : intra-abdominal absces LRTI : HAP
+3197,Urinary tract : UTI (catheterized) LRTI : HAP
+3198,LRTI : CAP
+3204,LRTI : CAP
+3213,LRTI : HAP
+3216,Oral : infection of mouth Cardiovascular : mediastinitis
+3225,LRTI : CAP
+3232,Skin or soft tissue : necrotizing fasciitis
+3233,LRTI : HAP
+3243,LRTI : HAP
+3245,LRTI : HAP Intra-abdominal : secondary peritonitis
+3247,Intra-abdominal : secondary peritonitis
+3248,LRTI : CAP
+3251,LRTI : CAP
+3252,LRTI : CAP
+3257,Intra-abdominal : pancreatic
+3266,LRTI : CAP
+3268,Oral : infection of mouth
+3269,Skin or soft tissue : infected decubitus
+3271,LRTI : CAP
+3273,Intra-abdominal : secondary peritonitis
+3274,LRTI : CAP
+3284,LRTI : CAP
+3293,Urinary tract : UTI (catheterized)
+3306,Viral systemic infections (please specify) Gastrointestinal  : gastroenteritis
+3314,LRTI : CAP
+3317,Intra-abdominal : biliary tract
+3318,LRTI : HAP
+3319,LRTI : CAP
+3338,Cardiovascular : endocarditis
+3347,LRTI : HAP
+3348,Skin or soft tissue : necrotizing fasciitis
+3351,LRTI : CAP
+3352,Cardiovascular : endocarditis
+3353,LRTI : HAP CNS : primary meningitis Intra-abdominal : primary peritonitis
+3354,LRTI : HAP
+3356,LRTI : HAP
+3359,Urinary tract : UTI (catheterized)
+3360,LRTI : VAP LRTI : CAP
+3366,Urinary tract : other infection of kidney
+3373,LRTI : CAP
+3379,Intra-abdominal : secondary peritonitis
+3392,URTI : pharyngitis
+3393,Skin or soft tissue : necrotizing fasciitis
+3395,LRTI : CAP
+3406,Intra-abdominal : biliary tract Urinary tract : UTI (catheterized)
+3413,LRTI : CAP
+3419,Urinary tract : UTI (catheterized)
+3437,LRTI : CAP
+3439,LRTI : HAP
+3440,LRTI : CAP
+3445,LRTI : HAP
+3463,Cardiovascular : endocarditis
+3469,LRTI : HAP
+3474,LRTI : CAP
+3478,Intra-abdominal : primary peritonitis
+3482,Gastrointestinal  : other infection
+3497,LRTI : HAP
+3499,LRTI : HAP
+3504,Gastrointestinal  : gastroenteritis
+3507,Cardiovascular : catheter-related LRTI : HAP
+3508,Cardiovascular : primary
+3511,CNS : secondary meningitis LRTI : HAP Cardiovascular : catheter-related
+3518,CNS : primary meningitis
+3527,LRTI : CAP
+3531,Intra-abdominal : pancreatic
+3543,LRTI : HAP
+3545,Infections of bones and joints : osteomyelitis Cardiovascular : endocarditis
+3551,URTI : pharyngitis
+3562,LRTI : CAP
+3568,Cardiovascular : mediastinitis
+3569,Intra-abdominal : secondary peritonitis
+3575,LRTI : HAP
+3577,LRTI : HAP
+3578,Cardiovascular : endocarditis LRTI : CAP
+3581,LRTI : CAP
+3583,LRTI : HAP
+3585,LRTI : CAP
+3587,Urinary tract : UTI (non-catheterized)
+3588,LRTI : CAP
+3590,LRTI : HAP Cardiovascular : catheter-related
+3592,Postoperative wound : deep surgical site
+3598,Cardiovascular : endocarditis
+3622,Intra-abdominal : secondary peritonitis
+3630,LRTI : HAP Gastrointestinal  : gastroenteritis
+3634,Skin or soft tissue : infected decubitus
+3638,Infections of bones and joints : osteomyelitis
+3647,LRTI : CAP
+3650,LRTI : CAP
+3653,URTI : pharyngitis
+3661,Intra-abdominal : secondary peritonitis
+3666,LRTI : CAP
+3667,CNS : secondary meningitis Intra-abdominal : pancreatic
+3676,LRTI : HAP Cardiovascular : mediastinitis
+3682,Urinary tract : UTI (non-catheterized)
+3699,Intra-abdominal : secondary peritonitis
+3708,Urinary tract : UTI (non-catheterized)
+3710,Urinary tract : UTI (non-catheterized) LRTI : CAP
+3713,Intra-abdominal : secondary peritonitis
+3714,LRTI : HAP
+3717,LRTI : CAP
+3718,Cardiovascular : catheter-related
+3720,LRTI : HAP
+3730,LRTI : CAP
+3743,LRTI : CAP
+3748,Intra-abdominal : intra-abdominal absces LRTI : CAP
+3755,Intra-abdominal : primary peritonitis
+3757,Urinary tract : UTI (non-catheterized)
+3777,LRTI : CAP
+3788,LRTI : CAP Intra-abdominal : secondary peritonitis
+3801,Intra-abdominal : secondary peritonitis
+3818,LRTI : CAP
+3823,Intra-abdominal : secondary peritonitis
+3835,Other (please specify) LRTI : HAP
+3839,Other (please specify)
+3847,Cardiovascular : endocarditis Infections of bones and joints : osteomyelitis
+3848,LRTI : HAP
+3859,Intra-abdominal : pancreatic
+3870,Infections of the reproductive tract: endometritis
+3871,Intra-abdominal : biliary tract
+3872,Intra-abdominal : secondary peritonitis
+3873,LRTI : CAP
+3877,LRTI : CAP
+3881,LRTI : CAP Urinary tract : UTI (non-catheterized)
+3886,LRTI : HAP Skin or soft tissue : necrotizing fasciitis
+3889,LRTI : CAP Postoperative wound : deep surgical site
+3892,LRTI : HAP
+3895,LRTI : CAP
+3897,Intra-abdominal : primary peritonitis Intra-abdominal : secondary peritonitis
+3898,LRTI : CAP
+3901,LRTI : CAP
+3908,LRTI : CAP
+3914,Urinary tract : UTI (catheterized)
+3915,LRTI : HAP
+3919,LRTI : CAP
+3930,LRTI : HAP
+3937,LRTI : HAP
+3938,LRTI : CAP
+3939,LRTI : CAP
+3940,Urinary tract : UTI (catheterized)
+3944,LRTI : CAP
+3951,Urinary tract : UTI (non-catheterized)
+3957,LRTI : HAP
+3969,LRTI : HAP
+3976,LRTI : CAP
+3977,Skin or soft tissue : necrotizing fasciitis
+3984,Intra-abdominal : secondary peritonitis
+3990,Cardiovascular : endocarditis LRTI : HAP
+3998,Urinary tract : UTI (non-catheterized) LRTI : CAP
+4001,LRTI : HAP
+4004,Infections of bones and joints : arthritis
+4007,Unknown
+4024,Postoperative wound : superficial surgicical LRTI : HAP
+4027,LRTI : CAP
+4028,LRTI : CAP
+4032,Cardiovascular : endocarditis
+4039,Cardiovascular : myocarditis
+4049,Skin or soft tissue : erisypelas Intra-abdominal : secondary peritonitis
+4051,LRTI : CAP
+4068,Cardiovascular : primary LRTI : CAP
+4089,LRTI : HAP
+4092,Urinary tract : UTI (catheterized)
+4099,Intra-abdominal : secondary peritonitis
+4103,LRTI : CAP
+4107,LRTI : HAP CNS : secondary meningitis
+4109,Intra-abdominal : secondary peritonitis
+4115,Intra-abdominal : pancreatic
+4117,LRTI : HAP
+4136,LRTI : HAP
+4141,LRTI : HAP
+4143,"LRTI : lung abscess, empyema"
+4150,LRTI : CAP
+4161,LRTI : CAP
+4162,LRTI : CAP
+4163,LRTI : CAP
+4179,Skin or soft tissue : necrotizing fasciitis
+4195,LRTI : CAP
+4201,Cardiovascular : endocarditis
+4204,Intra-abdominal : secondary peritonitis LRTI : HAP
+4205,LRTI : CAP
+4206,Skin or soft tissue : necrotizing fasciitis LRTI : HAP
+4209,Intra-abdominal : biliary tract Urinary tract : UTI (non-catheterized)
+4210,Intra-abdominal : secondary peritonitis
+4216,Urinary tract : UTI (catheterized)
+4218,Intra-abdominal : secondary peritonitis
+4220,Intra-abdominal : secondary peritonitis
+4221,LRTI : CAP
+4225,LRTI : CAP
+4229,Intra-abdominal : secondary peritonitis LRTI : HAP
+4231,LRTI : HAP Gastrointestinal  : gastroenteritis Skin or soft tissue : necrotizing fasciitis
+4232,LRTI : CAP
+4233,Urinary tract : UTI (non-catheterized)
+4234,LRTI : CAP
+4244,Cardiovascular : endocarditis LRTI : CAP
+4261,Infections of the reproductive tract: endometritis
+4264,CNS : brain abscess
+4265,URTI : pharyngitis
+4270,LRTI : CAP
+4288,LRTI : HAP
+4295,Skin or soft tissue : erisypelas Intra-abdominal : secondary peritonitis
+4298,Intra-abdominal : primary peritonitis Cardiovascular : primary Intra-abdominal : biliary tract
+4299,LRTI : HAP
+4303,LRTI : CAP
+4304,LRTI : CAP
+4314,Urinary tract : UTI (non-catheterized)
+4315,Urinary tract : UTI (catheterized)
+4316,LRTI : CAP Urinary tract : UTI (non-catheterized)
+4328,LRTI : CAP
+4338,Cardiovascular : endocarditis LRTI : CAP
+4349,Intra-abdominal : primary peritonitis
+4350,LRTI : CAP Other (please specify)
+4355,CNS : secondary meningitis
+4361,Intra-abdominal : secondary peritonitis
+4363,CNS : primary meningitis Skin or soft tissue : erisypelas Intra-abdominal : primary peritonitis
+4368,Intra-abdominal : secondary peritonitis
+4373,Intra-abdominal : secondary peritonitis
+4379,Intra-abdominal : secondary peritonitis
+4392,LRTI : CAP
+4393,LRTI : CAP
+4404,CNS : brain abscess
+4405,LRTI : CAP
+4410,LRTI : CAP
+4412,LRTI : CAP
+4416,LRTI : HAP
+4425,LRTI : CAP
+4428,CNS : primary meningitis
+4435,Urinary tract : UTI (non-catheterized) LRTI : HAP
+4440,Cardiovascular : endocarditis
+4444,Intra-abdominal : secondary peritonitis
+4445,LRTI : CAP
+4448,Urinary tract : UTI (catheterized)
+4460,Cardiovascular : endocarditis
+4463,LRTI : CAP
+4468,LRTI : CAP
+4471,Intra-abdominal : secondary peritonitis
+4477,LRTI : CAP
+4481,LRTI : CAP
+4484,Intra-abdominal : secondary peritonitis
+4487,Gastrointestinal  : gastroenteritis LRTI : CAP
+4490,CNS : secondary meningitis LRTI : HAP
+4492,LRTI : CAP CNS : brain abscess
+4494,CNS : brain abscess
+4496,Skin or soft tissue : erisypelas Urinary tract : other infection of kidney
+4497,Skin or soft tissue : infected decubitus
+4498,LRTI : CAP
+4508,Intra-abdominal : secondary peritonitis
+4510,Intra-abdominal : secondary peritonitis Postoperative wound : deep surgical site
+4522,Urinary tract : UTI (non-catheterized)
+4523,LRTI : CAP
+4525,LRTI : CAP
+4529,Urinary tract : other infection of kidney Intra-abdominal : secondary peritonitis
+4532,LRTI : CAP
+4546,LRTI : HAP
+4554,LRTI : CAP
+4568,Postoperative wound : deep surgical site Intra-abdominal : primary peritonitis
+4574,URTI : sinusitis
+4575,CNS : primary meningitis
+4576,LRTI : HAP
+4583,Urinary tract : UTI (non-catheterized) LRTI : CAP
+4586,Intra-abdominal : pancreatic Intra-abdominal : biliary tract
+4591,CNS : primary meningitis
+4595,Other (please specify)
+4608,Skin or soft tissue : erisypelas
+4609,Cardiovascular : mediastinitis
+4620,Intra-abdominal : secondary peritonitis
+4622,Skin or soft tissue : necrotizing fasciitis
+4624,Cardiovascular : mediastinitis
+4625,LRTI : CAP
+4626,Skin or soft tissue : necrotizing fasciitis LRTI : CAP
+4632,Urinary tract : other infection of kidney
+4633,Other (please specify)
+4634,Gastrointestinal  : gastroenteritis URTI : pharyngitis
+4642,Infections of bones and joints : osteomyelitis
+4645,LRTI : CAP
+4648,Cardiovascular : endocarditis LRTI : HAP
+4651,LRTI : CAP
+4652,Urinary tract : UTI (non-catheterized) LRTI : CAP
+4654,LRTI : HAP
+4674,Urinary tract : UTI (non-catheterized)
+4685,Intra-abdominal : pancreatic
+4688,LRTI : CAP
+4693,Skin or soft tissue : erisypelas
+4694,LRTI : CAP
+4695,Cardiovascular : endocarditis
+4699,LRTI : CAP
+4706,LRTI : CAP Gastrointestinal  : gastroenteritis
+4713,LRTI : CAP
+4719,LRTI : CAP
+4729,Intra-abdominal : secondary peritonitis
+4731,Intra-abdominal : secondary peritonitis
+4732,LRTI : CAP
+4736,LRTI : CAP
+4737,LRTI : CAP
+4749,Cardiovascular : mediastinitis
+4755,Urinary tract : UTI (non-catheterized)
+4771,Cardiovascular : endocarditis LRTI : CAP Urinary tract : UTI (non-catheterized)
+4782,LRTI : CAP
+4785,Urinary tract : UTI (non-catheterized)
+4787,Urinary tract : UTI (catheterized)
+4788,CNS : secondary meningitis
+4807,LRTI : CAP
+4810,Cardiovascular : myocarditis LRTI : HAP
+4828,LRTI : CAP
+4834,LRTI : CAP
+4835,LRTI : CAP
+4838,LRTI : CAP
+4846,Intra-abdominal : secondary peritonitis
+4850,Intra-abdominal : secondary peritonitis
+4859,Intra-abdominal : biliary tract
+4874,LRTI : HAP
+4875,Oral : infection of mouth
+4876,LRTI : HAP Skin or soft tissue : necrotizing fasciitis
+4882,Urinary tract : UTI (non-catheterized)
+4892,LRTI : CAP
+4908,Cardiovascular : endocarditis
+4910,LRTI : HAP
+4917,LRTI : CAP
+4922,LRTI : CAP
+4923,LRTI : CAP
+4928,CNS : brain abscess Urinary tract : other infection of kidney Cardiovascular : endocarditis
+4931,LRTI : CAP Cardiovascular : endocarditis
+4932,Intra-abdominal : secondary peritonitis
+4935,Skin or soft tissue : erisypelas Cardiovascular : mediastinitis
+4937,LRTI : HAP
+4938,LRTI : CAP
+4948,LRTI : CAP
+4951,LRTI : CAP
+4953,Gastrointestinal  : gastroenteritis
+4972,Intra-abdominal : secondary peritonitis
+4973,Intra-abdominal : secondary peritonitis Cardiovascular : mediastinitis
+4978,CNS : primary meningitis
+4982,LRTI : CAP
+4998,LRTI : CAP
+5001,Cardiovascular : primary CNS : primary meningitis
+5007,LRTI : CAP
+5011,Skin or soft tissue : erisypelas
+5029,Urinary tract : UTI (non-catheterized)
+5032,Intra-abdominal : secondary peritonitis
+5043,Urinary tract : UTI (catheterized)
+5051,LRTI : HAP
+5052,Skin or soft tissue : necrotizing fasciitis
+5079,Intra-abdominal : secondary peritonitis
+5081,CNS : brain abscess
+5084,LRTI : CAP
+5086,CNS : primary meningitis Skin or soft tissue : erisypelas
+5090,LRTI : CAP
+5091,Intra-abdominal : secondary peritonitis
+5092,Intra-abdominal : primary peritonitis LRTI : HAP
+5094,Cardiovascular : endocarditis
+5104,LRTI : HAP
+5106,Other (please specify)
+5112,Cardiovascular : catheter-related Other (please specify) CNS : primary meningitis
+5117,LRTI : HAP
+5120,Gastrointestinal  : gastroenteritis Postoperative wound : deep surgical site
+5125,Postoperative wound : deep surgical site
+5130,LRTI : CAP
+5134,Cardiovascular : mediastinitis LRTI : HAP Postoperative wound : deep surgical site
+5158,LRTI : CAP
+5167,Urinary tract : UTI (non-catheterized)
+5172,Intra-abdominal : secondary peritonitis
+5179,Other (please specify) LRTI : CAP
+5181,LRTI : HAP
+5185,Infections of bones and joints : osteomyelitis
+5189,LRTI : HAP Cardiovascular : primary Intra-abdominal : pancreatic
+5190,Urinary tract : UTI (non-catheterized) LRTI : HAP
+5191,Postoperative wound : deep surgical site
+5198,LRTI : CAP
+5201,LRTI : CAP
+5202,LRTI : CAP CNS : primary meningitis
+5206,LRTI : CAP
+5209,"LRTI : lung abscess, empyema"
+5210,CNS : primary meningitis
+5235,Skin or soft tissue : necrotizing fasciitis Intra-abdominal : intra-abdominal absces
+5241,Urinary tract : UTI (non-catheterized)
+5243,Urinary tract : UTI (non-catheterized)
+5254,Intra-abdominal : secondary peritonitis
+5259,LRTI : CAP
+5260,Intra-abdominal : secondary peritonitis
+5261,LRTI : HAP
+5262,Intra-abdominal : biliary tract Intra-abdominal : intra-abdominal absces
+5263,Urinary tract : UTI (catheterized)
+5272,CNS : brain abscess
+5285,LRTI : CAP
+5289,Urinary tract : other infection of kidney
+5293,Intra-abdominal : secondary peritonitis LRTI : CAP
+5297,CNS : secondary meningitis LRTI : CAP
+5301,CNS : primary meningitis
+5313,LRTI : HAP
+5320,Intra-abdominal : secondary peritonitis
+5329,Postoperative wound : deep surgical site
+5332,LRTI : CAP
+5338,Skin or soft tissue : necrotizing fasciitis
+5350,LRTI : CAP Skin or soft tissue : erisypelas
+5352,LRTI : HAP
+5368,LRTI : HAP
+5369,CNS : primary meningitis
+5377,LRTI : CAP
+5378,Cardiovascular : endocarditis
+5392,LRTI : CAP
+5396,LRTI : HAP
+5397,Skin or soft tissue : erisypelas
+5405,LRTI : CAP
+5407,Urinary tract : UTI (non-catheterized)
+5408,Cardiovascular : primary
+5409,Intra-abdominal : secondary peritonitis
+5413,Cardiovascular : primary
+5415,CNS : primary meningitis
+5419,Urinary tract : UTI (catheterized)
+5421,Cardiovascular : primary
+5423,LRTI : CAP
+5428,CNS : secondary meningitis LRTI : CAP
+5433,LRTI : CAP
+5438,Intra-abdominal : intra-abdominal absces
+5450,LRTI : HAP
+5458,LRTI : HAP Postoperative wound : deep surgical site
+5461,LRTI : CAP
+5462,Gastrointestinal  : gastroenteritis
+5466,LRTI : HAP
+5472,LRTI : CAP
+5478,LRTI : HAP
+5489,LRTI : CAP
+5508,Other (please specify)
+5527,LRTI : CAP Urinary tract : UTI (catheterized)
+5528,CNS : brain abscess
+5530,LRTI : HAP
+5534,Intra-abdominal : biliary tract
+5550,LRTI : CAP
+5563,LRTI : CAP
+5565,LRTI : HAP
+5566,LRTI : CAP
+5573,CNS : brain abscess
+5577,LRTI : HAP
+5586,LRTI : CAP
+5590,CNS : brain abscess
+5592,LRTI : CAP
+5603,Skin or soft tissue : erisypelas
+5619,Urinary tract : UTI (catheterized)
+5629,Infections of bones and joints : osteomyelitis
+5633,Cardiovascular : endocarditis
+5635,LRTI : CAP
+5638,LRTI : CAP
+5639,LRTI : CAP
+5642,Urinary tract : UTI (catheterized) Cardiovascular : endocarditis
+5653,Cardiovascular : endocarditis
+5685,Intra-abdominal : secondary peritonitis
+5686,CNS : primary meningitis
+5700,CNS : primary meningitis
+5704,LRTI : CAP
+5717,LRTI : HAP
+5726,LRTI : CAP
+5730,Skin or soft tissue : necrotizing fasciitis
+5746,LRTI : CAP
+5750,Intra-abdominal : biliary tract
+5764,Skin or soft tissue : infected decubitus
+5769,LRTI : HAP Cardiovascular : mediastinitis
+5771,Intra-abdominal : secondary peritonitis LRTI : HAP
+5773,LRTI : CAP
+5781,LRTI : HAP
+5785,LRTI : CAP
+5787,Cardiovascular : primary LRTI : HAP
+5799,LRTI : CAP
+5801,Intra-abdominal : secondary peritonitis
+5805,Intra-abdominal : secondary peritonitis
+5808,Urinary tract : UTI (non-catheterized)
+5809,LRTI : HAP Urinary tract : UTI (non-catheterized)
+5814,LRTI : HAP
+5825,Urinary tract : UTI (catheterized) LRTI : CAP
+5841,Urinary tract : UTI (non-catheterized) Cardiovascular : catheter-related
+5861,Urinary tract : UTI (catheterized) Infections of bones and joints : osteomyelitis
+5863,Intra-abdominal : biliary tract
+5875,Urinary tract : UTI (non-catheterized)
+5881,Intra-abdominal : intra-abdominal absces
+5883,Intra-abdominal : secondary peritonitis LRTI : HAP
+5894,LRTI : HAP
+5902,Infections of bones and joints : osteomyelitis
+5904,Cardiovascular : primary
+5914,Intra-abdominal : secondary peritonitis
+5927,Intra-abdominal : secondary peritonitis
+5930,Urinary tract : UTI (non-catheterized)
+5945,LRTI : HAP
+5946,LRTI : CAP
+5950,Intra-abdominal : secondary peritonitis
+5954,Infections of bones and joints : osteomyelitis
+5957,Intra-abdominal : intra-abdominal absces LRTI : CAP Urinary tract : UTI (catheterized)
+5988,Intra-abdominal : pancreatic
+5991,LRTI : CAP
+5998,LRTI : CAP
+6005,Skin or soft tissue : erisypelas Skin or soft tissue : necrotizing fasciitis
+6015,Intra-abdominal : secondary peritonitis
+6018,Intra-abdominal : secondary peritonitis
+6029,Urinary tract : UTI (catheterized)
+6037,Urinary tract : UTI (catheterized)
+6040,CNS : primary meningitis
+6047,LRTI : CAP
+6048,Intra-abdominal : primary peritonitis
+6052,Intra-abdominal : secondary peritonitis
+6061,Cardiovascular : primary
+6062,"Cardiovascular : myocarditis LRTI : lung abscess, empyema"
+6068,CNS : primary meningitis
+6069,LRTI : HAP Intra-abdominal : secondary peritonitis
+6093,LRTI : CAP
+6101,Intra-abdominal : intra-abdominal absces
+6103,LRTI : HAP
+6107,Intra-abdominal : biliary tract
+6109,Postoperative wound : deep surgical site
+6112,LRTI : CAP
+6116,LRTI : CAP Cardiovascular : primary
+6118,Intra-abdominal : pancreatic
+6119,Cardiovascular : myocarditis Cardiovascular : endocarditis
+6120,Cardiovascular : endocarditis LRTI : CAP
+6124,LRTI : HAP
+6130,Postoperative wound : deep surgical site
+6136,LRTI : HAP
+6137,Urinary tract : UTI (catheterized)
+6147,LRTI : CAP
+6150,Urinary tract : UTI (non-catheterized)
+6152,Intra-abdominal : secondary peritonitis
+6153,Skin or soft tissue : infected decubitus Cardiovascular : primary
+6155,Intra-abdominal : secondary peritonitis
+6157,Intra-abdominal : intra-abdominal absces
+6164,Skin or soft tissue : necrotizing fasciitis LRTI : HAP
+6166,Urinary tract : UTI (non-catheterized)
+6181,Cardiovascular : mediastinitis
+6190,Skin or soft tissue : mastitis
+6191,LRTI : CAP
+6194,Intra-abdominal : secondary peritonitis
+6196,LRTI : HAP
+6199,CNS : brain abscess
+6200,Intra-abdominal : primary peritonitis
+6207,LRTI : HAP
+6211,Urinary tract : UTI (catheterized)
+6214,LRTI : HAP
+6219,Skin or soft tissue : necrotizing fasciitis Infections of bones and joints : arthritis
+6225,LRTI : CAP
+6238,LRTI : HAP
+6243,LRTI : HAP
+6251,LRTI : CAP
+6276,Intra-abdominal : secondary peritonitis
+6279,CNS : primary meningitis
+6291,LRTI : CAP
+6294,Urinary tract : UTI (non-catheterized)
+6303,LRTI : CAP
+6308,LRTI : HAP
+6331,Intra-abdominal : secondary peritonitis
+6365,Skin or soft tissue : necrotizing fasciitis Urinary tract : UTI (non-catheterized)
+6366,LRTI : HAP
+6413,Intra-abdominal : secondary peritonitis
+6414,Intra-abdominal : secondary peritonitis Intra-abdominal : intra-abdominal absces
+6418,LRTI : CAP
+6423,LRTI : HAP
+6425,Gastrointestinal  : gastroenteritis
+6430,LRTI : HAP
+6437,LRTI : HAP Cardiovascular : catheter-related
+6445,Skin or soft tissue : necrotizing fasciitis Urinary tract : UTI (catheterized)
+6448,LRTI : CAP Urinary tract : UTI (non-catheterized)
+6452,Cardiovascular : mediastinitis LRTI : HAP
+6453,LRTI : HAP
+6475,Urinary tract : UTI (catheterized)
+6489,LRTI : CAP
+6513,Intra-abdominal : intra-abdominal absces
+6525,LRTI : CAP
+6530,Urinary tract : UTI (catheterized)
+6546,Urinary tract : UTI (catheterized)
+6548,LRTI : CAP
+6555,Intra-abdominal : primary peritonitis Cardiovascular : primary
+6558,Intra-abdominal : biliary tract
+6567,LRTI : CAP
+6572,LRTI : HAP
+6574,Intra-abdominal : secondary peritonitis
+6582,Intra-abdominal : intra-abdominal absces Urinary tract : other infection of kidney
+6594,Intra-abdominal : pancreatic
+6595,Urinary tract : other infection of kidney
+6611,Urinary tract : UTI (non-catheterized)
+6612,Urinary tract : UTI (non-catheterized) Intra-abdominal : biliary tract
+6616,Intra-abdominal : secondary peritonitis
+6617,LRTI : CAP
+6618,LRTI : CAP
+6624,LRTI : CAP
+6636,LRTI : CAP
+6641,LRTI : CAP
+6643,Urinary tract : UTI (catheterized)
+6649,LRTI : HAP
+6653,Intra-abdominal : biliary tract
+6656,LRTI : HAP
+6669,LRTI : CAP
+6675,LRTI : HAP
+6680,LRTI : HAP CNS : secondary meningitis Urinary tract : UTI (catheterized)
+6698,CNS : primary meningitis
+6706,Skin or soft tissue : erisypelas
+6713,LRTI : CAP
+6714,LRTI : HAP
+6715,Cardiovascular : endocarditis
+6729,LRTI : CAP
+6731,Intra-abdominal : pancreatic
+6733,CNS : brain abscess Cardiovascular : catheter-related
+6734,LRTI : HAP
+6744,CNS : primary meningitis
+6746,Intra-abdominal : biliary tract
+6749,Skin or soft tissue : erisypelas
+6758,LRTI : CAP Urinary tract : UTI (non-catheterized)
+6760,Cardiovascular : endocarditis
+6762,LRTI : HAP
+6773,Urinary tract : UTI (catheterized)
+6776,Intra-abdominal : secondary peritonitis
+6789,LRTI : CAP
+6814,Urinary tract : other infection of kidney
+6824,Skin or soft tissue : infected decubitus Gastrointestinal  : gastroenteritis Urinary tract : UTI (non-catheterized) CNS : primary meningitis
+6832,LRTI : CAP
+6834,LRTI : CAP
+6836,Urinary tract : UTI (catheterized)
+6843,LRTI : CAP
+6889,LRTI : CAP
+6890,Intra-abdominal : secondary peritonitis
+6919,LRTI : CAP
+7454,Gastrointestinal  : other infection
+7469,LRTI : HAP Urinary tract : UTI (catheterized)
+7474,Cardiovascular : primary Cardiovascular : catheter-related
+7475,Gastrointestinal  : gastroenteritis
+7479,LRTI : HAP Other (please specify)
+7488,LRTI : CAP
+7493,Urinary tract : UTI (non-catheterized)
+7496,LRTI : CAP
+7500,LRTI : CAP Urinary tract : UTI (catheterized)
+7501,LRTI : CAP
+7502,LRTI : CAP
+7507,LRTI : HAP
+7508,LRTI : HAP
+7514,Urinary tract : UTI (non-catheterized)
+7532,LRTI : CAP
+7537,LRTI : CAP
+7552,LRTI : CAP
+7557,CNS : primary meningitis LRTI : CAP
+7564,LRTI : CAP
+7583,Other (please specify)
+7597,LRTI : CAP
+7602,LRTI : CAP
+7604,Cardiovascular : catheter-related Skin or soft tissue : infected decubitus
+7606,LRTI : CAP
+7615,LRTI : HAP
+7625,LRTI : HAP
+7626,Intra-abdominal : primary peritonitis
+7628,LRTI : CAP
+7635,Gastrointestinal  : gastroenteritis Urinary tract : UTI (non-catheterized)
+7646,Intra-abdominal : secondary peritonitis
+7647,LRTI : CAP
+7657,LRTI : CAP
+7658,LRTI : CAP
+7671,LRTI : HAP
+7679,Intra-abdominal : secondary peritonitis Cardiovascular : mediastinitis
+7680,LRTI : CAP
+7698,Intra-abdominal : secondary peritonitis
+7699,CNS : secondary meningitis
+7706,LRTI : HAP
+7708,Unknown
+7717,Urinary tract : UTI (catheterized) CNS : primary meningitis LRTI : HAP
+7719,Urinary tract : UTI (non-catheterized)
+7724,LRTI : CAP
+7725,Intra-abdominal : peritoneal dialysis-related
+7740,CNS : brain abscess
+7749,LRTI : HAP
+7750,Urinary tract : other infection of kidney
+7752,LRTI : CAP
+7753,LRTI : CAP
+7754,LRTI : CAP Cardiovascular : primary
+7755,LRTI : HAP
+7766,Cardiovascular : catheter-related
+7767,Other (please specify)
+7768,LRTI : CAP
+7775,Unknown
+7778,Urinary tract : UTI (catheterized)
+7781,LRTI : CAP
+7782,Intra-abdominal : secondary peritonitis
+7799,LRTI : HAP Intra-abdominal : primary peritonitis
+7810,Urinary tract : UTI (non-catheterized)
+7811,Cardiovascular : catheter-related
+7812,LRTI : CAP
+7817,LRTI : CAP
+7831,LRTI : CAP
+7837,LRTI : CAP
+7867,LRTI : CAP Viral systemic infections (please specify)
+7878,CNS : primary meningitis
+7887,LRTI : HAP
+7905,LRTI : CAP
+7914,LRTI : CAP
+7915,Urinary tract : UTI (non-catheterized) LRTI : HAP
+7917,LRTI : CAP
+7952,Intra-abdominal : secondary peritonitis
+7960,LRTI : HAP CNS : secondary meningitis
+7962,Oral : infection of mouth
+7964,"LRTI : lung abscess, empyema"
+7965,LRTI : CAP
+7966,LRTI : CAP
+7967,LRTI : CAP
+7969,Urinary tract : UTI (catheterized) LRTI : CAP
+7978,URTI : pharyngitis
+7979,URTI : sinusitis
+7981,Urinary tract : UTI (catheterized)
+7987,LRTI : HAP
+7995,Intra-abdominal : intra-abdominal absces
+7998,Intra-abdominal : secondary peritonitis LRTI : CAP
+8012,LRTI : CAP
+8013,LRTI : CAP
+8014,LRTI : CAP
+8018,Cardiovascular : mediastinitis LRTI : HAP
+8030,LRTI : CAP
+8031,Gastrointestinal  : gastroenteritis LRTI : HAP
+8033,LRTI : HAP Intra-abdominal : secondary peritonitis
+8043,Cardiovascular : catheter-related
+8063,LRTI : HAP
+8066,LRTI : CAP
+8067,LRTI : HAP
+8068,LRTI : CAP
+8069,Intra-abdominal : secondary peritonitis
+8072,Urinary tract : UTI (non-catheterized)
+8080,Intra-abdominal : secondary peritonitis
+8086,LRTI : HAP Cardiovascular : primary
+8088,Other (please specify)
+8095,LRTI : CAP Gastrointestinal  : gastroenteritis
+8113,LRTI : CAP CNS : primary meningitis
+8122,LRTI : HAP
+8123,URTI : pharyngitis
+8125,LRTI : CAP Cardiovascular : primary
+8131,LRTI : CAP
+8158,LRTI : HAP
+8168,LRTI : CAP Urinary tract : UTI (non-catheterized)
+8170,LRTI : CAP
+8184,LRTI : HAP
+8185,LRTI : CAP
+8218,CNS : primary meningitis LRTI : CAP
+8219,Intra-abdominal : secondary peritonitis
+8220,Intra-abdominal : secondary peritonitis
+8224,LRTI : HAP
+8225,LRTI : HAP
+8232,LRTI : CAP
+8238,CNS : brain abscess
+8240,Gastrointestinal  : gastroenteritis
+8241,Infections of bones and joints : osteomyelitis
+8242,LRTI : CAP
+8249,LRTI : CAP
+8250,LRTI : CAP
+8261,LRTI : CAP
+8268,Intra-abdominal : secondary peritonitis
+8269,LRTI : CAP
+8273,LRTI : HAP
+8276,Unknown
+8277,LRTI : CAP
+8278,LRTI : CAP
+8281,LRTI : CAP
+8282,LRTI : HAP
+8293,LRTI : CAP
+8294,LRTI : CAP
+8295,Cardiovascular : endocarditis
+8304,Urinary tract : UTI (non-catheterized)
+8316,Infections of bones and joints : arthritis
+8319,Gastrointestinal  : gastroenteritis
+8321,LRTI : CAP
+8337,Intra-abdominal : secondary peritonitis
+8338,Urinary tract : UTI (non-catheterized)
+8359,Oral : infection of mouth
+8371,Intra-abdominal : secondary peritonitis
+8372,LRTI : CAP
+8381,Skin or soft tissue : necrotizing fasciitis
+8387,Gastrointestinal  : gastroenteritis
+8396,Urinary tract : other infection of kidney
+8439,LRTI : CAP
+8441,LRTI : CAP
+8452,Intra-abdominal : intra-abdominal absces
+8457,LRTI : HAP
+8482,Urinary tract : UTI (non-catheterized) LRTI : CAP
+8490,CNS : primary meningitis
+8491,LRTI : CAP
+8492,LRTI : CAP
+8493,Urinary tract : UTI (catheterized)
+8495,Intra-abdominal : intra-abdominal absces
+8498,LRTI : HAP
+8504,Cardiovascular : endocarditis
+8511,LRTI : CAP
+8512,Intra-abdominal : secondary peritonitis
+8527,Intra-abdominal : peritoneal dialysis-related
+8532,LRTI : HAP
+8534,Unknown
+8542,Skin or soft tissue : erisypelas
+8556,Skin or soft tissue : necrotizing fasciitis
+8563,Cardiovascular : primary Unknown LRTI : HAP
+8582,LRTI : CAP
+8593,Infections of bones and joints : spondylodiscitis
+8595,Intra-abdominal : biliary tract Urinary tract : UTI (non-catheterized)
+8600,LRTI : CAP
+8604,Intra-abdominal : secondary peritonitis Infections of bones and joints : arthritis
+8634,Oral : infection of mouth
+8641,Gastrointestinal  : gastroenteritis Infections of bones and joints : arthritis
+8644,LRTI : HAP Intra-abdominal : secondary peritonitis
+8647,Unknown
+8690,Cardiovascular : catheter-related
+8702,LRTI : CAP
+8703,LRTI : HAP
+8708,LRTI : CAP
+8726,Intra-abdominal : secondary peritonitis
+8738,Urinary tract : UTI (catheterized) LRTI : CAP
+8744,LRTI : CAP
+8753,LRTI : CAP
+8759,Intra-abdominal : secondary peritonitis
+8776,LRTI : HAP Intra-abdominal : secondary peritonitis
+8780,LRTI : HAP
+8804,Intra-abdominal : secondary peritonitis LRTI : HAP
+8813,Cardiovascular : endocarditis
+8836,Skin or soft tissue : erisypelas
+8848,LRTI : CAP
+8852,LRTI : HAP
+8854,LRTI : HAP
+8855,LRTI : CAP
+8863,Infections of bones and joints : spondylodiscitis
+8882,Intra-abdominal : secondary peritonitis LRTI : HAP
+8885,LRTI : HAP
+8888,LRTI : CAP Urinary tract : UTI (catheterized)
+8893,LRTI : CAP
+8899,LRTI : CAP
+8905,Gastrointestinal  : gastroenteritis LRTI : CAP
+8931,Urinary tract : UTI (catheterized)
+8935,Intra-abdominal : secondary peritonitis
+8942,Intra-abdominal : biliary tract
+8947,"LRTI : lung abscess, empyema"
+8952,LRTI : CAP
+8966,LRTI : HAP
+8977,LRTI : HAP
+8984,Cardiovascular : mediastinitis
+8991,Urinary tract : UTI (non-catheterized)
+8993,Intra-abdominal : secondary peritonitis
+9006,LRTI : HAP Cardiovascular : catheter-related
+9007,LRTI : HAP
+9020,Urinary tract : UTI (catheterized) Intra-abdominal : peritoneal dialysis-related
+9021,LRTI : CAP
+9028,Intra-abdominal : biliary tract LRTI : CAP
+9029,Intra-abdominal : biliary tract
+9037,Intra-abdominal : secondary peritonitis
+9048,Cardiovascular : primary
+9050,Postoperative wound : deep surgical site Cardiovascular : endocarditis
+9066,Gastrointestinal  : gastroenteritis
+9069,Skin or soft tissue : necrotizing fasciitis
+9104,Cardiovascular : mediastinitis
+9105,Urinary tract : other infection of kidney
+9110,LRTI : CAP
+9122,LRTI : CAP
+9149,LRTI : CAP
+9172,Oral : infection of mouth
+9173,LRTI : CAP
+9177,LRTI : HAP Infections of bones and joints : osteomyelitis
+9181,LRTI : HAP
+9184,LRTI : CAP Urinary tract : UTI (non-catheterized)
+9189,LRTI : HAP
+9200,LRTI : HAP
+9206,Cardiovascular : catheter-related LRTI : HAP
+9214,CNS : primary meningitis
+9217,LRTI : CAP
+9232,Postoperative wound : deep surgical site
+9235,LRTI : CAP
+9237,LRTI : HAP
+9244,LRTI : CAP
+9248,URTI : pharyngitis
+9249,LRTI : CAP
+9261,LRTI : CAP
+9274,Unknown
+9282,LRTI : CAP
+9283,LRTI : HAP
+9284,Intra-abdominal : secondary peritonitis Cardiovascular : catheter-related
+9329,LRTI : CAP
+9333,Intra-abdominal : secondary peritonitis
+9352,Gastrointestinal  : gastroenteritis
+9353,Intra-abdominal : secondary peritonitis
+9360,LRTI : HAP
+9361,LRTI : CAP
+9370,Urinary tract : UTI (non-catheterized)
+9378,LRTI : CAP
+9379,Intra-abdominal : secondary peritonitis
+9383,LRTI : CAP
+9391,LRTI : CAP
+9409,Intra-abdominal : secondary peritonitis
+9417,LRTI : CAP
+9420,LRTI : HAP
+9421,Urinary tract : UTI (non-catheterized) LRTI : CAP
+9422,CNS : secondary meningitis Ear : mastoiditis
+9430,Gastrointestinal  : gastroenteritis
+9443,LRTI : CAP
+9451,URTI : pharyngitis Cardiovascular : mediastinitis
+9458,LRTI : HAP
+9460,Intra-abdominal : secondary peritonitis
+9479,Intra-abdominal : pancreatic
+9510,LRTI : HAP
+9547,LRTI : HAP
+9550,LRTI : HAP Cardiovascular : mediastinitis
+9564,LRTI : CAP
+9575,LRTI : CAP
+9586,Cardiovascular : primary
+9595,Urinary tract : UTI (non-catheterized)
+9603,Other (please specify) LRTI : CAP
+9617,LRTI : HAP Urinary tract : UTI (non-catheterized)
+9621,LRTI : HAP
+9634,URTI : pharyngitis
+9635,Cardiovascular : mediastinitis
+9640,Urinary tract : UTI (non-catheterized)
+9672,CNS : secondary meningitis
+9673,Intra-abdominal : secondary peritonitis
+9688,Urinary tract : UTI (catheterized) LRTI : CAP
+9696,Intra-abdominal : secondary peritonitis
+9704,LRTI : CAP
+9710,LRTI : CAP
+9712,Urinary tract : UTI (catheterized)
+9718,Urinary tract : UTI (non-catheterized)
+9729,LRTI : CAP
+9773,Postoperative wound : superficial surgicical
+9781,LRTI : CAP
+9786,LRTI : CAP
+9791,Cardiovascular : mediastinitis
+9793,LRTI : CAP
+9794,Infections of bones and joints : spondylodiscitis LRTI : HAP
+9803,Skin or soft tissue : erisypelas LRTI : CAP
+9817,LRTI : CAP
+9819,Cardiovascular : myocarditis
+9835,LRTI : HAP
+9842,LRTI : HAP
+9848,Urinary tract : UTI (non-catheterized) Intra-abdominal : secondary peritonitis
+9859,Cardiovascular : catheter-related Intra-abdominal : tertiary peritonitis Intra-abdominal : secondary peritonitis
+9869,Cardiovascular : endocarditis Cardiovascular : mediastinitis
+9871,URTI : pharyngitis
+9874,LRTI : CAP
+9877,LRTI : HAP
+9879,LRTI : CAP Urinary tract : UTI (non-catheterized)
+9881,LRTI : CAP
+9882,Intra-abdominal : secondary peritonitis
+9887,LRTI : CAP
+9897,Intra-abdominal : secondary peritonitis LRTI : CAP
+9912,LRTI : CAP
+9913,LRTI : CAP Urinary tract : UTI (non-catheterized)
+9915,Intra-abdominal : secondary peritonitis
+9918,LRTI : HAP
+9923,LRTI : CAP
+9924,Infections of the reproductive tract: endometritis
+9925,LRTI : HAP CNS : secondary meningitis
+9932,LRTI : CAP
+9941,Other (please specify)
+9943,LRTI : CAP
+9954,LRTI : CAP
+9958,"LRTI : lung abscess, empyema"
+9960,Cardiovascular : endocarditis
+9967,LRTI : HAP
+9970,LRTI : HAP
+9984,LRTI : HAP
+9994,CNS : secondary meningitis
+9997,LRTI : CAP
+10006,Intra-abdominal : secondary peritonitis
+10013,Gastrointestinal  : other infection
+10018,LRTI : HAP CNS : primary meningitis
+10025,LRTI : HAP
+10055,Intra-abdominal : primary peritonitis
+10057,LRTI : HAP Cardiovascular : primary
+10058,LRTI : CAP
+10066,Postoperative wound : superficial surgicical
+10076,CNS : brain abscess
+10086,Cardiovascular : endocarditis
+10091,LRTI : CAP
+10094,Infections of the reproductive tract: endometritis
+10103,LRTI : CAP
+10106,Urinary tract : UTI (non-catheterized)
+10111,"LRTI : lung abscess, empyema"
+10117,LRTI : CAP
+10118,LRTI : CAP
+10122,Intra-abdominal : secondary peritonitis
+10125,LRTI : HAP
+10135,LRTI : CAP
+10167,Infections of bones and joints : spondylodiscitis Unknown
+10168,LRTI : CAP
+10171,Intra-abdominal : secondary peritonitis
+10172,LRTI : CAP
+10176,LRTI : CAP
+10177,Other (please specify)
+10179,LRTI : HAP
+10180,LRTI : CAP
+10184,LRTI : HAP CNS : primary meningitis
+10186,Gastrointestinal  : gastroenteritis
+10190,LRTI : HAP
+10192,Skin or soft tissue : necrotizing fasciitis
+10208,Skin or soft tissue : erisypelas
+10228,CNS : primary meningitis
+10232,LRTI : CAP Gastrointestinal  : other infection
+10243,CNS : primary meningitis
+10257,LRTI : HAP
+10264,Intra-abdominal : secondary peritonitis
+10287,LRTI : HAP
+10299,LRTI : HAP Urinary tract : other infection of kidney
+10302,Cardiovascular : endocarditis
+10308,Cardiovascular : endocarditis
+10313,LRTI : CAP
+10332,LRTI : HAP
+10348,Infections of bones and joints : osteomyelitis
+10355,Cardiovascular : endocarditis
+10370,URTI : pharyngitis LRTI : HAP
+10371,LRTI : HAP
+10372,Urinary tract : UTI (non-catheterized)
+10378,Urinary tract : UTI (non-catheterized)
+10389,Intra-abdominal : secondary peritonitis LRTI : CAP
+10390,LRTI : CAP
+10403,Cardiovascular : catheter-related Cardiovascular : primary LRTI : HAP
+10407,Intra-abdominal : secondary peritonitis
+10413,LRTI : CAP
+10417,LRTI : HAP
+10422,LRTI : CAP
+10444,Intra-abdominal : secondary peritonitis
+10446,LRTI : HAP
+10455,LRTI : CAP
+10467,LRTI : CAP
+10473,LRTI : CAP
+10474,Cardiovascular : primary
+10486,URTI : pharyngitis
+10499,Intra-abdominal : secondary peritonitis
+10515,LRTI : HAP
+10519,CNS : primary meningitis Ear : mastoiditis
+10523,Urinary tract : UTI (catheterized)
+10526,Cardiovascular : endocarditis
+10527,Urinary tract : UTI (non-catheterized) LRTI : CAP
+10529,LRTI : CAP
+10552,LRTI : CAP
+10553,Gastrointestinal  : gastroenteritis Cardiovascular : primary
+10554,Cardiovascular : endocarditis
+10558,LRTI : HAP
+10570,LRTI : HAP
+10577,LRTI : CAP
+10581,LRTI : CAP
+10583,LRTI : CAP
+10619,Cardiovascular : endocarditis
+10620,LRTI : HAP
+10631,Intra-abdominal : secondary peritonitis
+10637,Unknown
+10644,CNS : brain abscess
+10650,Intra-abdominal : secondary peritonitis LRTI : HAP
+10658,Cardiovascular : mediastinitis
+10666,LRTI : HAP
+10670,Gastrointestinal  : gastroenteritis LRTI : HAP
+10680,Postoperative wound : deep surgical site
+10682,Postoperative wound : deep surgical site
+10698,Cardiovascular : primary
+10709,LRTI : HAP
+10713,Skin or soft tissue : necrotizing fasciitis
+10728,LRTI : HAP
+10735,Skin or soft tissue : erisypelas Oral : infection of mouth LRTI : CAP
+10737,LRTI : HAP Intra-abdominal : secondary peritonitis
+10745,LRTI : HAP Gastrointestinal  : necrotizing enterocolitis
+10746,LRTI : CAP
+10758,Intra-abdominal : secondary peritonitis
+10789,"LRTI : lung abscess, empyema"
+10802,Intra-abdominal : peritoneal dialysis-related
+10817,LRTI : CAP
+10819,Cardiovascular : endocarditis
+10839,LRTI : HAP
+10849,Intra-abdominal : secondary peritonitis
+10866,LRTI : HAP
+10869,Intra-abdominal : secondary peritonitis
+10887,LRTI : CAP
+10894,Intra-abdominal : secondary peritonitis
+10900,CNS : secondary meningitis LRTI : HAP
+10908,Urinary tract : UTI (catheterized)
+10909,Cardiovascular : primary
+10924,LRTI : HAP
+10938,LRTI : HAP
+10940,Viral systemic infections (please specify) Gastrointestinal  : gastroenteritis
+10971,LRTI : CAP
+10986,URTI : pharyngitis
+10991,LRTI : CAP
+11009,LRTI : HAP
+11018,LRTI : HAP Cardiovascular : mediastinitis
+11023,LRTI : CAP
+11034,LRTI : HAP
+11044,LRTI : CAP
+11073,Oral : infection of mouth
+11079,Urinary tract : other infection of kidney
+11080,Intra-abdominal : pancreatic
+11081,Intra-abdominal : secondary peritonitis Urinary tract : UTI (non-catheterized)
+11083,Skin or soft tissue : necrotizing fasciitis Viral systemic infections (please specify) Unknown
+11101,LRTI : HAP Intra-abdominal : secondary peritonitis
+11102,LRTI : CAP Postoperative wound : deep surgical site
+11105,LRTI : HAP
+11114,LRTI : HAP
+11127,Intra-abdominal : secondary peritonitis
+11136,LRTI : HAP
+11143,LRTI : HAP Intra-abdominal : secondary peritonitis
+11157,Cardiovascular : mediastinitis
+11162,LRTI : HAP
+11170,Intra-abdominal : secondary peritonitis
+11172,Cardiovascular : catheter-related Urinary tract : UTI (catheterized)
+11186,CNS : primary meningitis
+11226,LRTI : CAP
+11231,Intra-abdominal : peritoneal dialysis-related Intra-abdominal : intra-abdominal absces Intra-abdominal : tertiary peritonitis Gastrointestinal  : gastroenteritis
+11232,LRTI : HAP
+11233,LRTI : HAP
+11239,Cardiovascular : catheter-related
+11250,Intra-abdominal : intra-abdominal absces
+11257,LRTI : CAP
+11269,Skin or soft tissue : necrotizing fasciitis
+11273,Cardiovascular : catheter-related LRTI : HAP
+11276,CNS : brain abscess
+11278,Intra-abdominal : secondary peritonitis
+11281,LRTI : HAP Infections of the reproductive tract: endometritis
+11284,CNS : primary meningitis
+11289,Gastrointestinal  : gastroenteritis URTI : sinusitis
+11322,URTI : sinusitis
+11335,Viral systemic infections (please specify)
+11338,Cardiovascular : primary
+11353,Urinary tract : UTI (catheterized)
+11358,CNS : brain abscess LRTI : HAP
+11359,Urinary tract : UTI (non-catheterized)
+11379,Intra-abdominal : secondary peritonitis
+11387,Intra-abdominal : intra-abdominal absces Intra-abdominal : secondary peritonitis
+11394,Cardiovascular : endocarditis
+11399,LRTI : HAP
+11411,LRTI : CAP
+11421,Intra-abdominal : secondary peritonitis
+11431,Unknown
+11434,Other (please specify)
+11435,LRTI : CAP
+11436,LRTI : CAP Intra-abdominal : secondary peritonitis
+11453,Cardiovascular : endocarditis LRTI : HAP CNS : brain abscess
+11467,Urinary tract : UTI (non-catheterized)
+11475,Other (please specify)
+11484,Cardiovascular : primary
+11486,Postoperative wound : deep surgical site Cardiovascular : endocarditis
+11487,LRTI : CAP
+11491,LRTI : CAP
+11514,Intra-abdominal : secondary peritonitis
+11533,Viral systemic infections (please specify) Urinary tract : other infection of kidney
+11544,LRTI : CAP
+11578,CNS : primary meningitis Urinary tract : UTI (non-catheterized)
+11581,LRTI : HAP
+11591,LRTI : HAP LRTI : CAP
+11599,LRTI : CAP
+11612,LRTI : HAP
+11614,Cardiovascular : endocarditis
+11621,LRTI : CAP
+11622,LRTI : CAP
+11627,LRTI : HAP
+11630,Urinary tract : UTI (non-catheterized)
+11639,LRTI : CAP
+11669,Intra-abdominal : secondary peritonitis
+11676,LRTI : HAP
+11688,LRTI : HAP Cardiovascular : catheter-related
+11696,Urinary tract : UTI (non-catheterized)
+11700,Urinary tract : UTI (catheterized)
+11701,LRTI : CAP
+11715,LRTI : CAP
+11727,Gastrointestinal  : gastroenteritis
+11731,Intra-abdominal : secondary peritonitis
+11745,LRTI : HAP
+11748,URTI : sinusitis
+11768,LRTI : HAP
+11770,LRTI : CAP Urinary tract : UTI (non-catheterized)
+11773,URTI : pharyngitis
+11785,LRTI : CAP
+11813,LRTI : CAP
+11818,Cardiovascular : endocarditis CNS : secondary meningitis
+11821,Cardiovascular : primary
+11825,Unknown
+11831,LRTI : CAP
+11840,CNS : brain abscess
+11843,LRTI : CAP
+11847,LRTI : HAP
+11848,Intra-abdominal : secondary peritonitis
+11881,Cardiovascular : primary
+11902,LRTI : HAP
+11909,Urinary tract : other infection of kidney
+11920,LRTI : HAP
+11929,Intra-abdominal : biliary tract LRTI : CAP
+11930,LRTI : CAP
+11938,Urinary tract : UTI (non-catheterized) Cardiovascular : endocarditis
+11949,Intra-abdominal : pancreatic
+11961,LRTI : CAP
+11968,LRTI : CAP
+12006,LRTI : HAP
+12011,Viral systemic infections (please specify) Urinary tract : UTI (non-catheterized)
+12030,LRTI : HAP
+12034,LRTI : HAP Cardiovascular : primary
+12038,LRTI : HAP
+12039,Intra-abdominal : secondary peritonitis
+12042,LRTI : CAP
+12073,Intra-abdominal : secondary peritonitis
+12074,Postoperative wound : deep surgical site
+12075,Unknown
+12083,LRTI : CAP
+12086,LRTI : CAP
+12088,Infections of bones and joints : osteomyelitis
+12102,Intra-abdominal : secondary peritonitis
+12105,Intra-abdominal : secondary peritonitis
+12126,LRTI : CAP
+12128,Cardiovascular : primary Cardiovascular : endocarditis
+12136,Intra-abdominal : secondary peritonitis
+12154,LRTI : HAP
+12181,Cardiovascular : mediastinitis
+12187,LRTI : CAP
+12221,Urinary tract : UTI (non-catheterized)
+12225,Urinary tract : UTI (non-catheterized) LRTI : HAP
+12235,Intra-abdominal : secondary peritonitis LRTI : CAP
+12252,Skin or soft tissue : infected decubitus
+12254,Skin or soft tissue : necrotizing fasciitis
+12268,"LRTI : CAP LRTI : lung abscess, empyema"
+12269,LRTI : CAP
+12292,LRTI : CAP
+12296,CNS : secondary meningitis LRTI : HAP
+12302,LRTI : CAP
+12303,Intra-abdominal : biliary tract
+12308,LRTI : CAP
+12315,LRTI : CAP
+12317,Urinary tract : UTI (catheterized)
+12318,Intra-abdominal : secondary peritonitis
+12328,Infections of bones and joints : spondylodiscitis
+12336,Cardiovascular : mediastinitis LRTI : CAP
+12338,Urinary tract : UTI (catheterized)
+12343,LRTI : HAP Cardiovascular : primary
+12345,LRTI : CAP
+12352,LRTI : CAP
+12356,LRTI : CAP
+12360,LRTI : CAP
+12363,LRTI : CAP
+12364,Postoperative wound : deep surgical site
+12370,Intra-abdominal : biliary tract
+12374,Urinary tract : UTI (catheterized) LRTI : HAP
+12376,LRTI : CAP
+12382,Urinary tract : UTI (catheterized) LRTI : CAP
+12384,Intra-abdominal : secondary peritonitis
+12385,LRTI : HAP
+12390,CNS : primary meningitis Urinary tract : UTI (catheterized)
+12393,"Cardiovascular : mediastinitis LRTI : lung abscess, empyema"
+12402,Infections of bones and joints : spondylodiscitis
+12404,LRTI : CAP
+12406,LRTI : CAP
+12413,LRTI : CAP
+12426,Intra-abdominal : secondary peritonitis
+12436,Cardiovascular : catheter-related
+12437,LRTI : CAP
+12444,Postoperative wound : deep surgical site
+12468,LRTI : CAP
+12476,Skin or soft tissue : erisypelas
+12484,LRTI : HAP
+12491,LRTI : HAP
+12503,Infections of bones and joints : spondylodiscitis Cardiovascular : primary LRTI : HAP Cardiovascular : catheter-related
+12504,LRTI : HAP
+12514,CNS : secondary meningitis
+12531,Infections of bones and joints : osteomyelitis
+12532,LRTI : CAP
+12548,Cardiovascular : endocarditis
+12549,LRTI : CAP
+12553,Ear : mastoiditis Skin or soft tissue : necrotizing fasciitis
+12555,Urinary tract : UTI (non-catheterized)
+12566,LRTI : CAP
+12568,LRTI : CAP
+12591,LRTI : CAP
+12593,LRTI : CAP
+12602,Gastrointestinal  : gastroenteritis Intra-abdominal : secondary peritonitis
+12614,LRTI : CAP
+12621,URTI : pharyngitis Cardiovascular : mediastinitis
+12629,CNS : primary meningitis
+12632,LRTI : CAP
+12634,LRTI : CAP
+12637,CNS : primary meningitis
+12650,Cardiovascular : endocarditis
+12656,Urinary tract : UTI (non-catheterized)
+12684,LRTI : CAP
+12685,LRTI : CAP
+12693,Infections of bones and joints : arthritis
+12695,Cardiovascular : endocarditis
+12700,LRTI : CAP
+12703,LRTI : CAP
+12709,CNS : secondary meningitis
+12710,LRTI : CAP
+12715,LRTI : CAP
+12729,Intra-abdominal : secondary peritonitis
+12731,LRTI : CAP Intra-abdominal : secondary peritonitis
+12736,Cardiovascular : endocarditis
+12739,LRTI : CAP
+12750,Cardiovascular : catheter-related LRTI : HAP
+12751,LRTI : HAP LRTI : CAP
+12756,Cardiovascular : endocarditis
+12764,LRTI : CAP
+12771,Intra-abdominal : secondary peritonitis
+12775,LRTI : CAP
+12776,LRTI : CAP
+12778,Cardiovascular : endocarditis
+12788,LRTI : CAP
+12789,LRTI : CAP
+12790,LRTI : CAP Viral systemic infections (please specify) LRTI : HAP
+12797,LRTI : CAP
+12819,LRTI : CAP
+12824,CNS : primary meningitis Ear : mastoiditis
+12858,Intra-abdominal : primary peritonitis
+12865,Intra-abdominal : biliary tract
+12872,LRTI : CAP Intra-abdominal : secondary peritonitis
+12878,Cardiovascular : endocarditis
+12900,LRTI : HAP
+12907,Urinary tract : UTI (non-catheterized)
+12911,LRTI : HAP
+12919,LRTI : HAP
+12930,Skin or soft tissue : necrotizing fasciitis
+12936,LRTI : HAP Cardiovascular : primary
+12948,LRTI : HAP
+12953,LRTI : CAP
+12955,LRTI : HAP
+12956,Intra-abdominal : biliary tract
+12957,LRTI : CAP
+12965,LRTI : CAP
+12976,Infections of bones and joints : osteomyelitis Cardiovascular : catheter-related Intra-abdominal : secondary peritonitis
+12977,Unknown
+12985,Viral systemic infections (please specify) Intra-abdominal : secondary peritonitis CNS : primary meningitis Intra-abdominal : intra-abdominal absces
+12987,Skin or soft tissue : necrotizing fasciitis
+13002,LRTI : CAP
+13005,LRTI : CAP
+13017,LRTI : HAP
+13023,Cardiovascular : catheter-related
+13030,Cardiovascular : myocarditis
+13033,LRTI : CAP
+13035,LRTI : CAP
+13052,LRTI : CAP
+13063,LRTI : HAP
+13065,Intra-abdominal : secondary peritonitis
+13070,LRTI : CAP
+13080,LRTI : CAP
+13088,Cardiovascular : myocarditis
+13096,Intra-abdominal : secondary peritonitis
+13104,Cardiovascular : endocarditis
+13108,LRTI : CAP
+13111,Postoperative wound : deep surgical site LRTI : HAP
+13113,LRTI : HAP
+13114,LRTI : HAP
+13115,LRTI : HAP
+13125,Skin or soft tissue : necrotizing fasciitis
+13126,LRTI : HAP
+13135,Urinary tract : UTI (catheterized)
+13138,Cardiovascular : primary
+13142,CNS : primary meningitis
+13149,CNS : primary meningitis CNS : brain abscess
+13152,LRTI : CAP
+13162,LRTI : CAP
+13163,LRTI : HAP
+13181,LRTI : CAP
+13182,Infections of bones and joints : arthritis
+13184,LRTI : CAP
+13203,LRTI : HAP URTI : sinusitis
+13209,Unknown
+13227,LRTI : CAP Skin or soft tissue : erisypelas
+13231,LRTI : CAP
+13232,LRTI : HAP Viral systemic infections (please specify) Cardiovascular : catheter-related
+13236,LRTI : CAP
+13241,LRTI : HAP
+13253,Urinary tract : other infection of kidney
+13254,Urinary tract : UTI (non-catheterized) LRTI : CAP
+13263,LRTI : HAP Urinary tract : UTI (catheterized)
+13275,Cardiovascular : catheter-related URTI : sinusitis LRTI : HAP
+13299,Skin or soft tissue : necrotizing fasciitis
+13300,Cardiovascular : endocarditis
+13301,CNS : primary meningitis
+13307,LRTI : CAP
+13316,Intra-abdominal : secondary peritonitis
+13344,LRTI : CAP
+13352,Cardiovascular : endocarditis
+13362,LRTI : CAP
+13412,Urinary tract : other infection of kidney
+13435,Intra-abdominal : secondary peritonitis
+13436,LRTI : CAP
+13448,Intra-abdominal : secondary peritonitis
+13449,LRTI : CAP Infections of bones and joints : osteomyelitis
+13457,LRTI : HAP
+13483,Other (please specify)
+13485,"LRTI : HAP LRTI : lung abscess, empyema"
+13508,LRTI : HAP
+13529,LRTI : CAP
+13538,Other (please specify)
+13541,LRTI : CAP
+13551,Other (please specify) Viral systemic infections (please specify)
+13563,LRTI : CAP CNS : primary meningitis
+13579,Gastrointestinal  : gastroenteritis
+13580,LRTI : HAP
+13581,Urinary tract : UTI (catheterized) Intra-abdominal : pancreatic
+13587,LRTI : tracheobronchitis LRTI : CAP
+13599,Intra-abdominal : secondary peritonitis
+13604,Postoperative wound : deep surgical site
+13622,Postoperative wound : deep surgical site Infections of bones and joints : osteomyelitis
+13639,LRTI : HAP
+13648,LRTI : HAP
+13656,LRTI : HAP
+13666,Skin or soft tissue : necrotizing fasciitis
+13667,LRTI : CAP
+13679,Cardiovascular : primary
+13687,LRTI : CAP
+13693,Intra-abdominal : secondary peritonitis
+13699,LRTI : CAP
+13700,Cardiovascular : primary
+13703,LRTI : HAP
+13719,Other (please specify)
+13730,LRTI : CAP
+13742,LRTI : CAP
+13745,Gastrointestinal  : necrotizing enterocolitis
+13746,Urinary tract : UTI (non-catheterized)
+13759,Intra-abdominal : biliary tract
+13764,LRTI : CAP
+13778,Intra-abdominal : secondary peritonitis
+13785,CNS : brain abscess
+13789,LRTI : CAP
+13790,"LRTI : lung abscess, empyema"
+13801,Ear : mastoiditis CNS : brain abscess
+13805,Cardiovascular : catheter-related Gastrointestinal  : gastroenteritis Gastrointestinal  : necrotizing enterocolitis
+13818,Cardiovascular : catheter-related LRTI : HAP
+13828,Urinary tract : UTI (non-catheterized)
+13830,Cardiovascular : myocarditis LRTI : HAP
+13838,LRTI : CAP Cardiovascular : primary
+13841,LRTI : HAP
+13850,Other (please specify) LRTI : CAP
+13852,Urinary tract : UTI (non-catheterized) Intra-abdominal : secondary peritonitis
+13873,LRTI : CAP
+13900,Urinary tract : UTI (catheterized)
+13902,Other (please specify)
+13906,Urinary tract : UTI (catheterized)
+13907,Intra-abdominal : secondary peritonitis
+13912,Urinary tract : UTI (catheterized)
+13926,LRTI : CAP
+13936,Intra-abdominal : secondary peritonitis
+13937,Intra-abdominal : secondary peritonitis
+13961,"LRTI : lung abscess, empyema"
+13962,Infections of bones and joints : arthritis
+13968,LRTI : CAP
+13987,Other (please specify)
+13993,LRTI : CAP
+14006,CNS : primary meningitis
+14015,LRTI : CAP
+14029,Intra-abdominal : intra-abdominal absces
+14032,LRTI : CAP
+14048,Urinary tract : UTI (non-catheterized) Intra-abdominal : secondary peritonitis
+14074,Gastrointestinal  : gastroenteritis Skin or soft tissue : erisypelas
+14085,Postoperative wound : deep surgical site Infections of bones and joints : osteomyelitis
+14095,Intra-abdominal : secondary peritonitis
+14116,CNS : brain abscess
+14126,URTI : sinusitis
+14131,Skin or soft tissue : necrotizing fasciitis
+14138,LRTI : HAP Skin or soft tissue : erisypelas
+14146,LRTI : HAP Intra-abdominal : secondary peritonitis
+14150,LRTI : CAP
+14165,LRTI : HAP
+14182,Intra-abdominal : biliary tract
+14187,LRTI : CAP
+14190,LRTI : HAP
+14194,LRTI : HAP
+14196,LRTI : CAP
+14245,Skin or soft tissue : erisypelas
+14257,Intra-abdominal : secondary peritonitis
+14263,LRTI : HAP Gastrointestinal  : gastroenteritis
+14268,Urinary tract : UTI (catheterized)
+14282,Urinary tract : UTI (catheterized)
+14289,LRTI : HAP
+14299,Postoperative wound : superficial surgicical
+14312,CNS : secondary meningitis CNS : brain abscess
+14319,LRTI : CAP Intra-abdominal : secondary peritonitis
+14320,LRTI : CAP
+14337,LRTI : CAP
+14343,LRTI : CAP
+14347,Gastrointestinal  : gastroenteritis
+14350,LRTI : HAP
+14366,Skin or soft tissue : necrotizing fasciitis
+14382,Urinary tract : UTI (non-catheterized) LRTI : CAP
+14391,Cardiovascular : myocarditis Cardiovascular : primary
+14395,LRTI : CAP
+14427,LRTI : HAP
+14431,Postoperative wound : deep surgical site
+14441,CNS : brain abscess Cardiovascular : endocarditis
+14443,CNS : primary meningitis
+14448,Urinary tract : UTI (non-catheterized) LRTI : CAP
+14456,Intra-abdominal : secondary peritonitis
+14465,LRTI : CAP
+14477,Intra-abdominal : secondary peritonitis LRTI : HAP
+14481,LRTI : HAP Intra-abdominal : secondary peritonitis
+14489,Urinary tract : UTI (catheterized)
+14500,LRTI : CAP
+14502,LRTI : CAP Gastrointestinal  : gastroenteritis
+14507,Intra-abdominal : secondary peritonitis
+14534,LRTI : HAP
+14539,Viral systemic infections (please specify)
+14547,Other (please specify)
+14562,Urinary tract : other infection of kidney
+14566,Skin or soft tissue : necrotizing fasciitis
+14568,LRTI : CAP
+14571,Urinary tract : UTI (catheterized)
+14585,Cardiovascular : catheter-related Urinary tract : UTI (catheterized)
+14587,LRTI : HAP
+975983,Skin or soft tissue : necrotizing fasciitis
+986614,Intra-abdominal : secondary peritonitis
