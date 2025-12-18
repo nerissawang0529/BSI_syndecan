@@ -1,0 +1,233 @@
+"ICU_ID_from_datasource","microbe_result","Klebsiella","S.aureus","CoNS","Staph_unknown","Enterococcus","E.coli","Streptococcus","microbenum"
+"10013","Enterococcus faecium, Amoxicilline resistente Enteroccus faecium",0,0,0,0,1,0,0,1
+"10192","Hem. streptococ groep A",0,0,0,0,0,0,1,1
+"10252","Staphylococcus aureus, methicilline gevoelig",0,1,0,0,0,0,0,1
+"1038","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"10422","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"10444","Escherichia coli",0,0,0,0,0,1,0,1
+"1056","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"10619","Staphylococcus aureus, methicilline gevoelig",0,1,0,0,0,0,0,1
+"10698","Staphylococcus aureus, methicilline gevoelig",0,1,0,0,0,0,0,1
+"1073","Escherichia coli Grampositieve staaf nader gedetermineerd",0,0,0,0,0,1,0,1
+"10758","Clostridium species",0,0,0,0,0,0,0,0
+"10844","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"11083","Enterobacter cloacae",0,0,0,0,0,0,0,0
+"11172","Klebsiella pneumoniae, Staphylococcus epidermidi",1,0,1,0,0,0,0,2
+"11278","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"11338","Staphylococcus aureus, methicilline resistent",0,1,0,0,0,0,0,1
+"11399","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"11418","Escherichia coli",0,0,0,0,0,1,0,1
+"11926","Escherichia coli",0,0,0,0,0,1,0,1
+"12011","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"12034","Staphylococcus epidermidi, Staphylococcus hominis",0,0,1,0,0,0,0,1
+"12211","Enterococcus faecium Staphylococcus haemolytic",0,0,1,0,1,0,0,2
+"12328","gram pos. coc, wrsch. Staphilococcus spp.",0,0,0,1,0,0,0,1
+"12343","Enterococcus faecium",0,0,0,0,1,0,0,1
+"12415","Serratia marcescens",0,0,0,0,0,0,0,0
+"12553","Hem. streptococ groep A",0,0,0,0,0,0,1,1
+"12593","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"12675","Enterobacter asburiae Enterococcus faecium",0,0,0,0,1,0,0,1
+"12709","Vergroenende streptococ",0,0,0,0,0,0,1,1
+"12776","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"12819","gram pos. coc, wrsch. Streptococcus spp.",0,0,0,0,0,0,1,1
+"12926","Amoxicilline resistente Enteroccus faecium Enterococcus faecalis Pseudomonas aeruginosa",0,0,0,0,1,0,0,1
+"12976","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"12987","Hem. streptococ groep A",0,0,0,0,0,0,1,1
+"13104","Staphylococcus epidermidi",0,0,1,0,0,0,0,1
+"13142","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"13149","gram pos. coc, wrsch. Streptococcus spp.",0,0,0,0,0,0,1,1
+"13154","Enterococcus faecalis",0,0,0,0,1,0,0,1
+"1317","Enterococcus faecium",0,0,0,0,1,0,0,1
+"13227","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"1324","Enterococcus faecium",0,0,0,0,1,0,0,1
+"13323","gram pos. coc, wrsch. Staphilococcus spp.",0,0,0,1,0,0,0,1
+"13449","Enterobacter cloacae complex",0,0,0,0,0,0,0,0
+"13501","Staphylococcus epidermidi",0,0,1,0,0,0,0,1
+"13622","Staphylococcus aureus, methicilline gevoelig",0,1,0,0,0,0,0,1
+"13666","Hem. streptococ groep A",0,0,0,0,0,0,1,1
+"13679","Gram negatieve staven, nadere uitslag volgt gram pos. coc, wrsch. Streptococcus spp., Gram negatieve staven, nadere uitslag volgt",0,0,0,0,0,0,1,1
+"13700","gram pos. coc, wrsch. Staphilococcus spp.",0,0,0,1,0,0,0,1
+"13744","Staphylococcus haemolytic",0,0,1,0,0,0,0,1
+"13889","Streptococcus anginosus",0,0,0,0,0,0,1,1
+"13906","Staphylococcus haemolytic",0,0,1,0,0,0,0,1
+"13937","Amoxicilline resistente Enteroccus faecium",0,0,0,0,1,0,0,1
+"14029","Enterococcus faecalis Staphylocooccus capitis",0,0,0,0,1,0,0,1
+"14074","Escherichia coli",0,0,0,0,0,1,0,1
+"14089","Amoxicilline resistente Enteroccus faecium, Staphylococcus epidermidi",0,0,1,0,1,0,0,2
+"14391","Hem. streptococ groep B",0,0,0,0,0,0,1,1
+"14497","Staphylococcus epidermidi",0,0,1,0,0,0,0,1
+"14507","Citrobacter koseri Klebsiella oxytoca",1,0,0,0,0,0,0,1
+"1456","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"14562","Enterococcus faecalis",0,0,0,0,1,0,0,1
+"1480","Enterococcus faecium",0,0,0,0,1,0,0,1
+"1499","Enterobacter species",0,0,0,0,0,0,0,0
+"1535","Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"1603","Escherichia coli",0,0,0,0,0,1,0,1
+"1708","Escherichia coli",0,0,0,0,0,1,0,1
+"1782","Escherichia coli",0,0,0,0,0,1,0,1
+"1818","Escherichia coli Klebsiella pneumoniae",1,0,0,0,0,1,0,2
+"1848","Enterococcus species huidflora",0,0,0,0,1,0,0,1
+"1866","Escherichia coli",0,0,0,0,0,1,0,1
+"1886","Enterobacter cloacae Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"189","Coagulase negatieve Staphylococ",0,0,1,0,0,0,0,1
+"1957","Streptococcus constellatus (milleri gr.)",0,0,0,0,0,0,1,1
+"2221","Escherichia coli",0,0,0,0,0,1,0,1
+"2229","Bacteroides fragilis",0,0,0,0,0,0,0,0
+"2231","Enterococcus faecalis",0,0,0,0,1,0,0,1
+"2279","Enterococcus faecium Escherichia coli Klebsiella pneumoniae, Enterobacter cloacae Klebsiella pneumoniae",1,0,0,0,1,1,0,3
+"2291","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"2367","Escherichia coli",0,0,0,0,0,1,0,1
+"2639","Proteus mirabilis Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"2694","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"2705","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"2724","Enterobacter asburiae",0,0,0,0,0,0,0,0
+"273","Streptococcen vergroenend",0,0,0,0,0,0,1,1
+"2730","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"278","Escherichia coli",0,0,0,0,0,1,0,1
+"2791","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"2839","Enterococcus faecium",0,0,0,0,1,0,0,1
+"2841","Candida albicans, gisten",0,0,0,0,0,0,0,0
+"2877","Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"2921","Escherichia coli",0,0,0,0,0,1,0,1
+"3073","Escherichia coli",0,0,0,0,0,1,0,1
+"3078","Enterobacter cloacae",0,0,0,0,0,0,0,0
+"3111","Enterococcus faecium",0,0,0,0,1,0,0,1
+"312","Streptococcus pyogenes groep A",0,0,0,0,0,0,1,1
+"3149","Enterococcus faecalis",0,0,0,0,1,0,0,1
+"3172","Staphylococcus schleiferi Streptococcen vergroenend",0,0,0,0,0,0,1,1
+"3239","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"3286","Bacillus species",0,0,0,0,0,0,0,0
+"3317","Escherichia coli",0,0,0,0,0,1,0,1
+"3354","Enterococcus faecalis",0,0,0,0,1,0,0,1
+"3359","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"3367","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"3390","Enterobacter cloacae",0,0,0,0,0,0,0,0
+"3406","Escherichia coli, Eggerthella lenta",0,0,0,0,0,1,0,1
+"3471","Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"3478","Escherichia coli",0,0,0,0,0,1,0,1
+"3577","Bacteroides fragilis",0,0,0,0,0,0,0,0
+"364","Staphylococcus coagulase negatief",0,0,0,0,0,0,0,0
+"3682","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"3717","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"3755","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"378","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"3801","Clostridium species",0,0,0,0,0,0,0,0
+"3802","Escherichia coli",0,0,0,0,0,1,0,1
+"3847","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"3859","Streptococcus milleri groep",0,0,0,0,0,0,1,1
+"3871","Enterococcus faecium Escherichia coli Klebsiella oxytoca",1,0,0,0,1,1,0,3
+"389","Enterococcus species",0,0,0,0,1,0,0,1
+"3897","Escherichia coli",0,0,0,0,0,1,0,1
+"3915","Candida glabrata",0,0,0,0,0,0,0,0
+"3938","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"3976","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"3984","Aeromonas species Enterococcus faecalis Escherichia coli",0,0,0,0,1,1,0,2
+"4049","Escherichia coli",0,0,0,0,0,1,0,1
+"4109","Escherichia coli",0,0,0,0,0,1,0,1
+"4171","Bacteroides thetaiotaomicron",0,0,0,0,0,0,0,0
+"4210","Escherichia coli",0,0,0,0,0,1,0,1
+"4295","Citrobacter koseri",0,0,0,0,0,0,0,0
+"4298","Escherichia coli",0,0,0,0,0,1,0,1
+"4351","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"4440","Candida tropicalis, Candida parapsilosis Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"448","Escherichia coli",0,0,0,0,0,1,0,1
+"4496","Escherichia coli",0,0,0,0,0,1,0,1
+"4510","Escherichia coli",0,0,0,0,0,1,0,1
+"4622","Streptococcus pyogenes groep A",0,0,0,0,0,0,1,1
+"4626","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"4674","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"4729","Enterococcus species Klebsiella pneumoniae",1,0,0,0,1,0,0,2
+"4731","Clostridium bifermentans",0,0,0,0,0,0,0,0
+"4755","Enterococcus faecalis Enterococcus faecium",0,0,0,0,1,0,0,1
+"4771","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"4782","Escherichia coli",0,0,0,0,0,1,0,1
+"4787","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"4807","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"4835","Escherichia coli Staphylococcus hominis",0,0,1,0,0,1,0,2
+"4850","Enterococcus faecalis",0,0,0,0,1,0,0,1
+"4874","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"4882","Citrobacter koseri",0,0,0,0,0,0,0,0
+"4908","Enterococcus faecalis Enterococcus faecium",0,0,0,0,1,0,0,1
+"4931","Staphylococcus aureus, Streptococcus groep B (Str. agalactiae)",0,1,0,0,0,0,1,2
+"4932","Enterococcus faecium, Bacteroides thetaiotaomicron",0,0,0,0,1,0,0,1
+"5044","Enterococcus faecalis, Enterococcus faecalis Staphylococcus hominis",0,0,1,0,1,0,0,2
+"5084","Streptococcus haemolyticus groep G",0,0,1,0,0,0,1,2
+"5091","Clostridium species Staphylococcus aureus, Staphylococcus aureus",0,1,0,0,0,0,0,1
+"5305","Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"5311","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"5338","Candida glabrata",0,0,0,0,0,0,0,0
+"5377","Escherichia coli",0,0,0,0,0,1,0,1
+"5408","Staphylococcus haemolyticus",0,0,1,0,0,0,0,1
+"5413","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"5421","gisten",0,0,0,0,0,0,0,0
+"5642","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"5707","Enterobacter cloacae",0,0,0,0,0,0,0,0
+"5730","Enterobacter cloacae",0,0,0,0,0,0,0,0
+"5764","Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"5841","Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"5875","Escherichia coli",0,0,0,0,0,1,0,1
+"5881","Abiotrophia species Fusobacterium necrophorum, Fusobacterium necrophorum",0,0,0,0,0,0,0,0
+"5957","Enterobacter aerogenes",0,0,0,0,0,0,0,0
+"5991","Klebsiella pneumoniae",1,0,0,0,0,0,0,1
+"6029","Escherichia coli",0,0,0,0,0,1,0,1
+"6037","Escherichia coli, Enterococcus faecium",0,0,0,0,1,1,0,2
+"6040","Staphylococcus aureus Staphylococcus epidermidis",0,1,1,0,0,0,0,2
+"6048","Salmonella groep B",0,0,0,0,0,0,0,0
+"6057","Enterococcus faecium",0,0,0,0,1,0,0,1
+"6069","Clostridium perfringens",0,0,0,0,0,0,0,0
+"6116","Morganella morganii ss morganii Proteus mirabilis Streptococcus haemolyticus groep G, Morganella morganii ss morganii Proteus mirabilis",0,0,1,0,0,0,1,2
+"6157","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"6312","Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"6386","Bacillus species",0,0,0,0,0,0,0,0
+"6425","Escherichia coli Proteus mirabilis",0,0,0,0,0,1,0,1
+"6437","Staphylococcus epidermidis",0,0,1,0,0,0,0,1
+"6445","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"661","Coagulase negatieve Staphylococ Staphylococcus aureus",0,1,1,0,0,0,0,2
+"6611","Staphylococcus epidermidis, Escherichia coli Staphylococcus epidermidis, Escherichia coli",0,0,1,0,0,1,0,2
+"6631","Klebsiella pneumoniae Staphylococcus epidermidis",1,0,1,0,0,0,0,2
+"6641","Neisseria meningitidis, Staphylococcus simulans",0,0,0,0,0,0,0,0
+"6658","Haemophilus influenzae",0,0,0,0,0,0,0,0
+"6675","Streptococcen vergroenend, Streptococcus mitis",0,0,0,0,0,0,1,1
+"6744","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"6749","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"6773","Klebsiella oxytoca",1,0,0,0,0,0,0,1
+"689","Enterococcus species Escherichia coli Klebsiella pneumoniae Streptococcen vergroenend, Escherichia coli Streptococcen vergroenend",1,0,0,0,1,1,1,4
+"6919","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"715","Bacillus species",0,0,0,0,0,0,0,0
+"743","Coagulase negatieve Staphylococ Enterococcus species, Enterococcus species Coagulase negatieve Staphylococ, Enterococcus species",0,0,1,0,1,0,0,2
+"7962","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"8080","Amoxicilline resistente Enteroccus faecium",0,0,0,0,1,0,0,1
+"8276","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"8316","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"8338","Escherichia coli",0,0,0,0,0,1,0,1
+"8371","Amoxicilline resistente Enteroccus faecium Enterococcus species Escherichia coli",0,0,0,0,1,1,0,2
+"8381","Hem. streptococ groep A",0,0,0,0,0,0,1,1
+"839","Escherichia coli",0,0,0,0,0,1,0,1
+"8490","gram pos. coc, wrsch. Streptococcus spp.",0,0,0,0,0,0,1,1
+"8493","Gram negatieve staven, nadere uitslag volgt",0,0,0,0,0,0,0,0
+"8495","Escherichia coli",0,0,0,0,0,1,0,1
+"8512","Clostridium species",0,0,0,0,0,0,0,0
+"8556","Staphylococcus aureus, methicilline gevoelig, Gram-positieve coc, wrsch. S.aureus",0,1,0,0,0,0,0,1
+"8563","Coagulase negatieve staphylococ",0,0,1,0,0,0,0,1
+"8690","Gram negatieve staven, nadere uitslag volgt",0,0,0,0,0,0,0,0
+"8758","Coagulase negatieve staphylococ",0,0,1,0,0,0,0,1
+"8811","Coagulase negatieve staphylococ",0,0,1,0,0,0,0,1
+"8821","Amoxicilline resistente Enteroccus faecium, Lactobacillus species",0,0,0,0,1,0,0,1
+"8836","Escherichia coli",0,0,0,0,0,1,0,1
+"8931","Escherichia coli Pseudomonas aeruginosa",0,0,0,0,0,1,0,1
+"8942","Enterococcus species Escherichia coli Klebsiella oxytoca",1,0,0,0,1,1,0,3
+"8991","Enterococcus faecalis, Staphylocooccus capitis",0,0,0,0,1,0,0,1
+"905","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0
+"9050","Staphylococcus aureus, methicilline gevoelig",0,1,0,0,0,0,0,1
+"913","Staphylococcus aureus",0,1,0,0,0,0,0,1
+"9214","Streptococcus pneumoniae",0,0,0,0,0,0,1,1
+"9284","Escherichia coli",0,0,0,0,0,1,0,1
+"9315","Staphylococcus aureus, methicilline gevoelig",0,1,0,0,0,0,0,1
+"941","Escherichia coli",0,0,0,0,0,1,0,1
+"9422","gram pos. coc, wrsch. Streptococcus spp.",0,0,0,0,0,0,1,1
+"9586","Staphylococcus aureus, methicilline gevoelig",0,1,0,0,0,0,0,1
+"9595","Escherichia coli",0,0,0,0,0,1,0,1
+"966","Escherichia coli",0,0,0,0,0,1,0,1
+"9673","Escherichia coli",0,0,0,0,0,1,0,1
+"980","Enterobacter aerogenes Enterococcus avium Escherichia coli, Enterobacter aerogenes Enterococcus avium",0,0,0,0,1,1,0,2
+"999","Candida albicans",0,0,0,0,0,0,0,0
