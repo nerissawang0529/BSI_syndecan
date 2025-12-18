@@ -1,0 +1,260 @@
+---
+title: "Linear regression & XGBoost"
+author: "Hui Wang"
+date: ''
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float: true
+    number_sections: false
+  pdf_document:
+    toc: true
+    toc_depth: '5'
+---
+  
+<style type="text/css">
+  
+body{ /* Normal  */
+  font-size: 12px;
+  }
+td {  /* Table  */
+  font-size: 12px;
+}
+h1.title {
+  font-size: 18px;
+  color: DarkBlue;
+}
+h1 { /* Header 1 */
+  font-size: 18px;
+}
+h2 { /* Header 2 */
+  font-size: 18px;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+}
+code.r{ /* Code block */
+  font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+  font-size: 14px;
+}
+</style>
+
+---
+
+# Packages used
+The following packages are used.  
+```{r message=FALSE, warning=FALSE}
+drat:::addRepo("dmlc")
+library(xgboost)
+library(Matrix)
+library(dplyr)
+library("variancePartition")
+```
+
+---
+Whether the pathogen is the driver factor in difference of syndecan-1 levels?
+
+# Setting the RNG seed
+```{r}
+set.seed(3456)
+```
+
+---
+
+# Linear regression_Ready data
+```{r}
+#ready data
+data <- read.csv("../original_data/clinical_marker_scource_pathogen.csv")
+#make the source values
+data$FinalSource <- "unknown"
+data$FinalSource[data$CNS_source==1] <- "CNS"
+data$FinalSource[data$abdominal==1] <- "abdominal"
+data$FinalSource[data$respiratory==1] <- "respiratory"
+data$FinalSource[data$urinary==1] <- "urinary"
+data$FinalSource[data$cardiovascular==1] <- "cardiovascular"
+data$FinalSource[data$skin==1] <- "skin"
+data$FinalSource[data$other_source==1] <- "other"
+
+table(data$FinalSource)
+
+fit1 <- lm(data=data, log(data$Syndecan.1.CD138..29.) ~ Enterobacter + Enterococcus + Klebsiella + Pseudomonas + S.aureus + Streptococcus + FinalSource + SOFAtot + APACHE_IV_Acute_Physiology_Score.x)
+summary(fit1)
+```
+
+---
+
+# Variance Partitioning in Syndecan-1 Expression
+```{r}
+SynExpr <- t(log(data$Syndecan.1.CD138..29.))
+colnames(SynExpr) <- data$ICU_ID_from_datasource
+row.names(SynExpr) <- "Synd"
+exp2 <- rbind(SynExpr, SynExpr)
+row.names(exp2) <- c("Synd","S2")
+bsinfo <- data[,c("FinalSource", "SOFAtot", "APACHE_IV_Acute_Physiology_Score.x","Enterobacter","Enterococcus","Klebsiella","Pseudomonas","S.aureus","Streptococcus")]
+row.names(bsinfo) <- data$ICU_ID_from_datasource
+bsinfo <- as.data.frame(bsinfo)
+bsinfo2 <- bsinfo[complete.cases(bsinfo),]
+exp3 <- exp2[,row.names(bsinfo2)]
+form <- ~ Enterobacter + Enterococcus + Klebsiella + Pseudomonas + S.aureus + Streptococcus + SOFAtot + APACHE_IV_Acute_Physiology_Score.x 
+varPart <- fitExtractVarPartModel(exp3, form, bsinfo2)
+vp <- sortCols(varPart)
+plotPercentBars(vp)
+vp
+
+```
+Even though APACHE_IV_Acute_Physiology_Score.x has a small coefficient, it has:
+
+A consistent, statistically significant relationship with the response.
+A wide range of values in the dataset, which contributes more to the total variance explained.
+---
+
+# eXtreme Gradient Boosting (XGBoost)
+XGBoost will be able to identify which factors are most associated with syndecan-1 levels, but it cannot give an exact number of t he impact of the various factors.
+```{r}
+#ready data
+data <- read.csv("../original_data/clinical_marker_scource_pathogen.csv")
+data <- data[!(data$FinalGroup_pathegon %in% c("Mixed_pathegon", "Other_pathogens")),]
+data <- data[!is.na(data$SOFAtot), ]
+
+
+# Cutting the sorted data into three equal parts (1, 2, 3)
+data$Syndecan_group <- cut(data$Syndecan.1.CD138..29.,
+                           breaks = quantile(data$`Syndecan.1.CD138..29.`, probs = seq(0, 1, length = 4), na.rm = TRUE),
+                           include.lowest = TRUE,
+                           labels = c(1, 2, 3))
+```
+
+---
+
+---
+
+# Split the data into train and test
+```{r}
+library(caret)
+set.seed(3456)
+trainIndex <- createDataPartition(data$FinalGroup_pathegon, p = .8, 
+                                  list = FALSE, 
+                                  times = 1)
+train <- data[trainIndex, ]   # Rows selected by trainIndex (Training set)
+train <- train[!is.na(train$SOFAtot), ]
+test  <- data[-trainIndex, ]  # Rows NOT in trainIndex (Testing set)
+
+# Encode 'FinalGroup_pathegon' as a numeric feature using one-hot encoding
+train_one_hot <- model.matrix(~ FinalGroup_pathegon + SOFAtot + APACHE_IV_Acute_Physiology_Score.x - 1, data = train)
+
+# Adjust the labels to start from 0
+label <- as.numeric(train$Syndecan_group) - 1  # Convert to 0, 1, 2
+
+# Convert the one-hot encoded matrix to a sparse matrix for XGBoost
+data_sparse <- Matrix::sparse.model.matrix(~.-1, data = as.data.frame(train_one_hot))
+
+# Train the XGBoost model
+bstSparse <- xgboost(data = data_sparse, 
+                     label = label, 
+                     max.depth = 2, 
+                     eta = 1, 
+                     nthread = 2, 
+                     nrounds = 2, 
+                     objective = "multi:softmax", 
+                     num_class = length(unique(label)))
+
+```
+
+---
+
+# Test
+```{r}
+#Prepare the test data by encoding 'FinalGroup_pathegon' using one-hot encoding
+test_one_hot <- model.matrix(~ FinalGroup_pathegon + SOFAtot + APACHE_IV_Acute_Physiology_Score.x - 1, data = test)
+# Convert the one-hot encoded matrix to a sparse matrix for prediction
+test_sparse <- Matrix::sparse.model.matrix(~.-1, data = as.data.frame(test_one_hot))
+# Make predictions
+pred <- predict(bstSparse, test_sparse)
+# Size of the prediction vector
+print(length(pred))
+# Print the predicted classes
+print(pred)
+
+prediction <- as.numeric(pred > 0.5)
+print(head(prediction))
+
+err <- mean(as.numeric(pred > 0.5) != test$label)
+print(paste("test-error=", err))
+
+
+# Get feature names from the sparse matrix
+feature_names <- colnames(data_sparse)
+```
+
+---
+
+---
+
+# Feature Importance Analysis and Visualization with XGBoost
+```{r}
+# Compute the importance of features
+importance <- xgb.importance(feature_names = feature_names, model = bstSparse)
+
+# Display the importance
+print(importance)
+
+# Plot the importance for better visualization
+xgb.plot.importance(importance)
+
+
+# Update the XGBoost training to use "multi:softprob" for probabilities
+bstSparse <- xgboost(data = data_sparse, 
+                     label = label, 
+                     max.depth = 2, 
+                     eta = 1, 
+                     nthread = 2, 
+                     nrounds = 2, 
+                     objective = "multi:softprob", 
+                     num_class = length(unique(label)))
+
+# Predict probabilities for each class on the test set
+pred_prob <- predict(bstSparse, test_sparse)
+
+# Convert predictions into a matrix (each column corresponds to a class probability)
+pred_prob_matrix <- matrix(pred_prob, ncol = length(unique(label)), byrow = TRUE)
+
+```
+The x-axis of the plot indicates the relative importance of each feature, usually expressed as a proportion or score.
+The features with higher importance scores contribute more significantly to the predictions made by the XGBoost model.
+The length of the bars reflects the contribution of each feature to the model.
+---
+
+---
+
+# AUC
+```{r}
+# Load the pROC library
+library(pROC)
+
+# Initialize a list to store AUCs for each class
+auc_list <- list()
+
+# Calculate AUC for each class
+for (i in 1:length(unique(label))) {
+  # One-vs-all approach for AUC calculation
+  roc_curve <- roc(as.numeric(test$Syndecan_group == (i)), pred_prob_matrix[, i])
+  auc_value <- auc(roc_curve)
+  auc_list[[i]] <- auc_value
+  
+  # Print AUC for each class
+  print(paste("AUC for class", i, ":", auc_value))
+  
+  # Plot the ROC curve
+  plot(roc_curve, main = paste("ROC Curve for Class", i), col = i, lwd = 2)
+}
+
+# Average AUC across all classes
+avg_auc <- mean(unlist(auc_list))
+print(paste("Average AUC:", avg_auc))
+
+```
+Class 3 performs best, Class 1 is okay, and Class 2 needs improvement.
+---

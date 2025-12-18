@@ -1,0 +1,88 @@
+---
+title: "Template"
+author: "Nerissa"
+date: "2025-01-20"
+output: 
+   html_document:
+    toc: true
+    toc_depth: 5
+    toc_float: true
+    number_sections: false
+---
+  
+<style type="text/css">
+  
+body{ /* Normal  */
+  font-size: 12px;
+  }
+td {  /* Table  */
+  font-size: 12px;
+}
+h1.title {
+  font-size: 18px;
+  color: DarkBlue;
+}
+h1 { /* Header 1 */
+  font-size: 18px;
+}
+h2 { /* Header 2 */
+  font-size: 18px;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+}
+code.r{ /* Code block */
+  font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+  font-size: 14px;
+}
+</style>
+
+---
+
+
+
+# Load the mtcars dataset
+```{r}
+data("mtcars")
+head(mtcars)
+```
+
+To start a code chunk in R Markdown, use ```` ```{r} ```` and close it with ```` ``` ````. Chunk options could be added like this: ```` ```{r echo = FALSE} ````. There are two chunk options I think are important:  
+ 1. echo: Display the code, default is `TRUE`.   
+ 2. eval: Display the output, default is `TRUE`.
+ 
+Here to create a line new in a list, double space at the end of the line above.
+---
+
+If comments are added at the top of the chunk, there should be empty lines above and below.
+
+# Setting the RNG seed
+```{r}
+set.seed(123)
+```
+
+If comments are added at the bottom of the chunk, there should be empty lines above and below. There should be a space between `#` and the heading.
+
+---
+
+# Fit a linear regression model
+```{r}
+model <- lm(mpg ~ wt, data = mtcars)
+summary(model)
+```
+
+---
+
+# Plot the data and regression line
+```{r}
+plot(mtcars$wt, mtcars$mpg, 
+     main = "Linear Regression: mpg vs. wt",
+     xlab = "Weight (1000 lbs)", 
+     ylab = "Miles per Gallon",
+     pch = 16, col = "blue")
+abline(model, col = "red", lwd = 2)
+```
+
+Go to Help > Cheat Sheets > R Markdown Cheat Sheet.
